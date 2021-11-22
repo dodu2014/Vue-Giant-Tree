@@ -1,27 +1,28 @@
 {
   "name": "tnt-vue-ztree",
-  "version": "0.1.6",
+  "version": "1.0.0",
   "author": "dodu2014 [dodu@live.cn]",
-  "main": "./dist/vue-giant-tree.common.js",
+  "main": "./dist/tnt-vue-ztree.common.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dodu2014/Vue-Giant-Tree.git"
+    "url": "git+https://github.com/dodu2014/tnt-vue-ztree.git"
   },
   "files": [
     "dist"
   ],
   "keywords": [
+    "tnt",
     "vue",
     "tree",
     "ztree"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/dodu2014/Vue-Giant-Tree/blob/master/README.md",
+  "homepage": "https://github.com/dodu2014/tnt-vue-ztree",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-bundle": "vue-cli-service build --target lib --dest dist --name vue-giant-tree ./src/components/ztree.vue",
+    "build-bundle": "vue-cli-service build --target lib --dest dist --name tnt-vue-ztree ./src/components/ztree.vue",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
