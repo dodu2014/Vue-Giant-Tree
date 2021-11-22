@@ -1,11 +1,11 @@
 {
-  "name": "vue-giant-tree",
-  "version": "0.1.5",
-  "author": "refined-x [tower1229@foxmail.com]",
+  "name": "tnt-vue-ztree",
+  "version": "0.1.6",
+  "author": "dodu2014 [dodu@live.cn]",
   "main": "./dist/vue-giant-tree.common.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tower1229/Vue-Giant-Tree.git"
+    "url": "git+https://github.com/dodu2014/Vue-Giant-Tree.git"
   },
   "files": [
     "dist"
@@ -16,7 +16,7 @@
     "ztree"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/tower1229/Vue-Giant-Tree/blob/master/README.md",
+  "homepage": "https://github.com/dodu2014/Vue-Giant-Tree/blob/master/README.md",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -25,7 +25,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@ztree/ztree_v3": "^3.5.44",
+    "@ztree/ztree_v3": "^3.5.48",
     "jquery": "^3.5.1"
   },
   "devDependencies": {
