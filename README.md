@@ -34,12 +34,12 @@ in script:
 import tree from "tnt-vue-ztree";
 
 export default {
-	components: {
-          tree
-	},
-	data() {
-		return {
-			nodes: [
+    components: {
+            tree
+    },
+    data() {
+        return {
+            nodes: [
                     { id:1, pid:0, name:"随意勾选 1", open:true},
                     { id:11, pid:1, name:"随意勾选 1-1", open:true},
                     { id:111, pid:11, name:"随意勾选 1-1-1"},
@@ -54,8 +54,8 @@ export default {
                     { id:222, pid:22, name:"随意勾选 2-2-2"},
                     { id:23, pid:2, name:"随意勾选 2-3"}
                 ]
-		}
-	},
+        }
+    },
     methods: {
         onClick(evt, treeId, treeNode) {
 
@@ -67,7 +67,7 @@ export default {
 
         }
     }
-	...
+    ...
 ```
 
 in template:

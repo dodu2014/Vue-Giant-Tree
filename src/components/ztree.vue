@@ -3,15 +3,18 @@
 </template>
 
 <script>
-import * as jquery from "jquery";
-let $ = jquery;
+import * as jquery from "jquery"
+let $ = jquery
 if (window.jQuery) {
-  $ = window.jQuery;
-}else{
-  window.jQuery = $;
+  $ = window.jQuery
+} else {
+  window.jQuery = $
 }
 
-require("@ztree/ztree_v3/js/jquery.ztree.all");
+require("@ztree/ztree_v3/js/jquery.ztree.core")
+require("@ztree/ztree_v3/js/jquery.ztree.excheck")
+require("@ztree/ztree_v3/js/jquery.ztree.exedit")
+require("@ztree/ztree_v3/js/jquery.ztree.exhide")
 
 export default {
   props: {
@@ -19,14 +22,14 @@ export default {
       type: Object,
       require: false,
       default: function () {
-        return {};
+        return {}
       },
     },
     nodes: {
       type: Array,
       require: true,
       default: function () {
-        return [];
+        return []
       },
     },
   },
@@ -41,77 +44,77 @@ export default {
         },
         callback: {
           onAsyncError: (...arg) => {
-            this.$emit("onAsyncError", ...arg);
+            this.$emit("onAsyncError", ...arg)
           },
           onAsyncSuccess: (...arg) => {
-            this.$emit("onAsyncSuccess", ...arg);
+            this.$emit("onAsyncSuccess", ...arg)
           },
           onCheck: (...arg) => {
-            this.$emit("onCheck", ...arg);
+            this.$emit("onCheck", ...arg)
           },
           onClick: (...arg) => {
-            this.$emit("onClick", ...arg);
+            this.$emit("onClick", ...arg)
           },
           onCollapse: (...arg) => {
-            this.$emit("onCollapse", ...arg);
+            this.$emit("onCollapse", ...arg)
           },
           onDblClick: (...arg) => {
-            this.$emit("onDblClick", ...arg);
+            this.$emit("onDblClick", ...arg)
           },
           onDrag: (...arg) => {
-            this.$emit("onDrag", ...arg);
+            this.$emit("onDrag", ...arg)
           },
           onDragMove: (...arg) => {
-            this.$emit("onDragMove", ...arg);
+            this.$emit("onDragMove", ...arg)
           },
           onDrop: (...arg) => {
-            this.$emit("onDrop", ...arg);
+            this.$emit("onDrop", ...arg)
           },
           onExpand: (...arg) => {
-            this.$emit("onExpand", ...arg);
+            this.$emit("onExpand", ...arg)
           },
           onMouseDown: (...arg) => {
-            this.$emit("onMouseDown", ...arg);
+            this.$emit("onMouseDown", ...arg)
           },
           onMouseUp: (...arg) => {
-            this.$emit("onMouseUp", ...arg);
+            this.$emit("onMouseUp", ...arg)
           },
           onRemove: (...arg) => {
-            this.$emit("onRemove", ...arg);
+            this.$emit("onRemove", ...arg)
           },
           onRename: (...arg) => {
-            this.$emit("onRename", ...arg);
+            this.$emit("onRename", ...arg)
           },
           onRightClick: (...arg) => {
-            this.$emit("onRightClick", ...arg);
+            this.$emit("onRightClick", ...arg)
           },
         },
       },
-    };
+    }
   },
   watch: {
     nodes: {
       handler: function (nodes) {
-        this.list = nodes;
+        this.list = nodes
 
         // update tree
         if (this.ztreeObj) {
-          this.ztreeObj.destroy();
+          this.ztreeObj.destroy()
         }
         this.$nextTick(() => {
           this.ztreeObj = $.fn.zTree.init(
             $("#" + this.ztreeId),
             Object.assign({}, this.ztreeSetting, this.setting),
             this.list
-          );
-          this.$emit("onCreated", this.ztreeObj);
-        });
+          )
+          this.$emit("onCreated", this.ztreeObj)
+        })
       },
       deep: true,
       immediate: true,
     },
   },
-};
+}
 </script>
 
 <style scoped>

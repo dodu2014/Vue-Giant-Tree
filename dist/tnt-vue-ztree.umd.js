@@ -154,17 +154,6 @@ module.exports = function (obj) {
 
 /***/ }),
 
-/***/ "0a2e":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ztree_vue_vue_type_style_index_0_id_974d7f00_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("d8ad");
-/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ztree_vue_vue_type_style_index_0_id_974d7f00_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ztree_vue_vue_type_style_index_0_id_974d7f00_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
-
-
-/***/ }),
-
 /***/ "0b42":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11392,20 +11381,6 @@ function toComment(sourceMap) {
 
 /***/ }),
 
-/***/ "2b29":
-/***/ (function(module, exports, __webpack_require__) {
-
-// Imports
-var ___CSS_LOADER_API_IMPORT___ = __webpack_require__("24fb");
-exports = ___CSS_LOADER_API_IMPORT___(false);
-// Module
-exports.push([module.i, ".ztree[data-v-974d7f00]{text-align:left;font-size:14px}.ztree[data-v-974d7f00] li{list-style-type:none;white-space:nowrap;outline:none}.ztree[data-v-974d7f00] li ul{position:relative;padding:0 0 0 20px;margin:0}.ztree[data-v-974d7f00] .line:before{position:absolute;top:0;left:10px;height:100%;content:\"\";border-right:1px dotted #dbdbdb}.ztree[data-v-974d7f00] .bottom_docu:after,.ztree[data-v-974d7f00] .bottom_docu:before,.ztree[data-v-974d7f00] .center_docu:after,.ztree[data-v-974d7f00] .center_docu:before,.ztree[data-v-974d7f00] .roots_docu:after,.ztree[data-v-974d7f00] .roots_docu:before{position:absolute;content:\"\";border:0 dotted #dbdbdb}.ztree[data-v-974d7f00] .roots_docu:before{left:10px;height:50%;top:50%;border-left-width:1px}.ztree[data-v-974d7f00] .roots_docu:after{top:50%;left:11px;width:50%;border-top-width:1px}.ztree[data-v-974d7f00] .center_docu:before{left:10px;height:100%;border-left-width:1px}.ztree[data-v-974d7f00] .center_docu:after{top:50%;left:11px;width:50%;border-top-width:1px}.ztree[data-v-974d7f00] .bottom_docu:before{left:10px;height:50%;border-left-width:1px}.ztree[data-v-974d7f00] .bottom_docu:after{top:50%;left:11px;width:50%;border-top-width:1px}.ztree[data-v-974d7f00] li a{display:inline-block;line-height:22px;height:22px;margin:0;cursor:pointer;-webkit-transition:none;transition:none;vertical-align:middle;color:#555}.ztree[data-v-974d7f00] .node_name{display:inline-block;padding:0 3px;border-radius:4px}.ztree[data-v-974d7f00] .curSelectedNode .node_name{color:#000;background-color:#c9e9f7}.ztree[data-v-974d7f00] .curSelectedNode_Edit{height:20px;opacity:.8;color:#000;border:1px solid #6cc2e8;background-color:#9dd6f0}.ztree[data-v-974d7f00] .tmpTargetNode_inner{opacity:.8;color:#fff;background-color:#4fcbf0;filter:alpha(opacity=80)}.ztree[data-v-974d7f00] .rename{font-size:12px;line-height:22px;width:80px;height:22px;margin:0;padding:0;vertical-align:top;border:0;background:none}.ztree[data-v-974d7f00] .button{position:relative;display:inline-block;line-height:22px;height:22px;width:22px;cursor:pointer;text-align:center;vertical-align:middle}.ztree[data-v-974d7f00] .button.edit{color:#25ae88}.ztree[data-v-974d7f00] .button.remove{color:#cb4042}.ztree[data-v-974d7f00] .button.chk{position:relative;width:14px;height:14px;margin:0 4px 0 0;border:1px solid #d7dde4;border-radius:2px;background:#fff}.ztree[data-v-974d7f00] .chk.radio_false_disable,.ztree[data-v-974d7f00] .chk.radio_false_full,.ztree[data-v-974d7f00] .chk.radio_false_full_focus,.ztree[data-v-974d7f00] .chk.radio_false_part,.ztree[data-v-974d7f00] .chk.radio_false_part_focus,.ztree[data-v-974d7f00] .chk.radio_true_disable,.ztree[data-v-974d7f00] .chk.radio_true_full,.ztree[data-v-974d7f00] .chk.radio_true_full_focus,.ztree[data-v-974d7f00] .chk.radio_true_part,.ztree[data-v-974d7f00] .chk.radio_true_part_focus{border-radius:8px}.ztree[data-v-974d7f00] .button.chk:after{position:absolute;top:1px;left:4px;width:4px;height:8px;content:\"\";transition:-webkit-transform .2s ease-in-out;-webkit-transition:-webkit-transform .2s ease-in-out;transition:transform .2s ease-in-out;transition:transform .2s ease-in-out,-webkit-transform .2s ease-in-out;-webkit-transform:rotate(0deg) scale(0);transform:rotate(0deg) scale(0);border-right:2px solid #fff;border-bottom:2px solid #fff}.ztree[data-v-974d7f00] .button.checkbox_false_full_focus{border-color:#ccc}.ztree[data-v-974d7f00] .button.checkbox_true_disable,.ztree[data-v-974d7f00] .button.checkbox_true_full,.ztree[data-v-974d7f00] .button.checkbox_true_full_focus,.ztree[data-v-974d7f00] .button.checkbox_true_part,.ztree[data-v-974d7f00] .button.checkbox_true_part_focus{border-color:#39f;background-color:#39f}.ztree[data-v-974d7f00] .button.checkbox_true_disable:after,.ztree[data-v-974d7f00] .button.checkbox_true_full:after,.ztree[data-v-974d7f00] .button.checkbox_true_full_focus:after{-webkit-transform:rotate(45deg) scale(1);transform:rotate(45deg) scale(1)}.ztree[data-v-974d7f00] .button.checkbox_true_part:after,.ztree[data-v-974d7f00] .button.checkbox_true_part_focus:after{top:5px;left:2px;width:10px;height:1px;-webkit-transform:rotate(0deg) scale(1);transform:rotate(0deg) scale(1);border-right:0}.ztree[data-v-974d7f00] .button.radio_true_full,.ztree[data-v-974d7f00] .chk.radio_true_full_focus,.ztree[data-v-974d7f00] .chk.radio_true_part,.ztree[data-v-974d7f00] .chk.radio_true_part_focus{border-color:#39f}.ztree[data-v-974d7f00] .button.radio_true_full:after,.ztree[data-v-974d7f00] .chk.radio_true_full_focus:after,.ztree[data-v-974d7f00] .chk.radio_true_part:after,.ztree[data-v-974d7f00] .chk.radio_true_part_focus:after{top:3px;left:3px;width:8px;-webkit-transform:rotate(0deg) scale(1);transform:rotate(0deg) scale(1);border:0;border-radius:4px;background:#39f}.ztree[data-v-974d7f00] .button.checkbox_false_disable,.ztree[data-v-974d7f00] .button.checkbox_true_disable,.ztree[data-v-974d7f00] .chk.radio_false_disable,.ztree[data-v-974d7f00] .chk.radio_true_disable{cursor:not-allowed}.ztree[data-v-974d7f00] .button.checkbox_false_disable{background-color:#f3f3f3}.ztree[data-v-974d7f00] .button.bottom_close:before,.ztree[data-v-974d7f00] .button.bottom_open:before,.ztree[data-v-974d7f00] .button.center_close:before,.ztree[data-v-974d7f00] .button.center_open:before,.ztree[data-v-974d7f00] .button.noline_close:before,.ztree[data-v-974d7f00] .button.noline_open:before,.ztree[data-v-974d7f00] .button.root_close:before,.ztree[data-v-974d7f00] .button.root_open:before,.ztree[data-v-974d7f00] .button.roots_close:before,.ztree[data-v-974d7f00] .button.roots_open:before{position:absolute;top:5px;left:5px;content:\"\";transition:-webkit-transform .3s ease;-webkit-transition:-webkit-transform .3s ease;transition:transform .3s ease;transition:transform .3s ease,-webkit-transform .3s ease;-webkit-transform:rotate(0deg);transform:rotate(0deg);-webkit-transform-origin:25% 50%;transform-origin:25% 50%;border:6px solid;border-color:transparent transparent transparent #666}.ztree[data-v-974d7f00] .button.bottom_open:before,.ztree[data-v-974d7f00] .button.center_open:before,.ztree[data-v-974d7f00] .button.noline_open:before,.ztree[data-v-974d7f00] .button.root_open:before,.ztree[data-v-974d7f00] .button.roots_open:before{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.ztree[data-v-974d7f00] .button.ico_loading{margin-right:2px;background:url(\"data:image/gif;base64,R0lGODlhEAAQAKIGAMLY8YSx5HOm4Mjc88/g9Ofw+v///wAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAGACwAAAAAEAAQAAADMGi6RbUwGjKIXCAA016PgRBElAVlG/RdLOO0X9nK61W39qvqiwz5Ls/rRqrggsdkAgAh+QQFCgAGACwCAAAABwAFAAADD2hqELAmiFBIYY4MAutdCQAh+QQFCgAGACwGAAAABwAFAAADD1hU1kaDOKMYCGAGEeYFCQAh+QQFCgAGACwKAAIABQAHAAADEFhUZjSkKdZqBQG0IELDQAIAIfkEBQoABgAsCgAGAAUABwAAAxBoVlRKgyjmlAIBqCDCzUoCACH5BAUKAAYALAYACgAHAAUAAAMPaGpFtYYMAgJgLogA610JACH5BAUKAAYALAIACgAHAAUAAAMPCAHWFiI4o1ghZZJB5i0JACH5BAUKAAYALAAABgAFAAcAAAMQCAFmIaEp1motpDQySMNFAgA7\") 0 no-repeat}.ztree[data-v-974d7f00] .tmpTargetzTree{opacity:.8;background-color:#2ea9df;filter:alpha(opacity=80)}.ztree[data-v-974d7f00] .tmpzTreeMove_arrow{position:absolute;width:18px;height:18px;color:#4fcbf0}", ""]);
-// Exports
-module.exports = exports;
-
-
-/***/ }),
-
 /***/ "2d00":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11440,6 +11415,17 @@ module.exports = version;
 
 /***/ }),
 
+/***/ "3089":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ztree_vue_vue_type_style_index_0_id_2deb67ae_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("bae4");
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ztree_vue_vue_type_style_index_0_id_2deb67ae_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_ztree_vue_vue_type_style_index_0_id_2deb67ae_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+
+
+/***/ }),
+
 /***/ "342f":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11457,6 +11443,678 @@ var uncurryThis = __webpack_require__("e330");
 
 module.exports = uncurryThis({}.isPrototypeOf);
 
+
+/***/ }),
+
+/***/ "4273":
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__("24fb");
+exports = ___CSS_LOADER_API_IMPORT___(false);
+// Module
+exports.push([module.i, ".ztree[data-v-2deb67ae]{text-align:left;font-size:14px}.ztree[data-v-2deb67ae] li{list-style-type:none;white-space:nowrap;outline:none}.ztree[data-v-2deb67ae] li ul{position:relative;padding:0 0 0 20px;margin:0}.ztree[data-v-2deb67ae] .line:before{position:absolute;top:0;left:10px;height:100%;content:\"\";border-right:1px dotted #dbdbdb}.ztree[data-v-2deb67ae] .bottom_docu:after,.ztree[data-v-2deb67ae] .bottom_docu:before,.ztree[data-v-2deb67ae] .center_docu:after,.ztree[data-v-2deb67ae] .center_docu:before,.ztree[data-v-2deb67ae] .roots_docu:after,.ztree[data-v-2deb67ae] .roots_docu:before{position:absolute;content:\"\";border:0 dotted #dbdbdb}.ztree[data-v-2deb67ae] .roots_docu:before{left:10px;height:50%;top:50%;border-left-width:1px}.ztree[data-v-2deb67ae] .roots_docu:after{top:50%;left:11px;width:50%;border-top-width:1px}.ztree[data-v-2deb67ae] .center_docu:before{left:10px;height:100%;border-left-width:1px}.ztree[data-v-2deb67ae] .center_docu:after{top:50%;left:11px;width:50%;border-top-width:1px}.ztree[data-v-2deb67ae] .bottom_docu:before{left:10px;height:50%;border-left-width:1px}.ztree[data-v-2deb67ae] .bottom_docu:after{top:50%;left:11px;width:50%;border-top-width:1px}.ztree[data-v-2deb67ae] li a{display:inline-block;line-height:22px;height:22px;margin:0;cursor:pointer;-webkit-transition:none;transition:none;vertical-align:middle;color:#555}.ztree[data-v-2deb67ae] .node_name{display:inline-block;padding:0 3px;border-radius:4px}.ztree[data-v-2deb67ae] .curSelectedNode .node_name{color:#000;background-color:#c9e9f7}.ztree[data-v-2deb67ae] .curSelectedNode_Edit{height:20px;opacity:.8;color:#000;border:1px solid #6cc2e8;background-color:#9dd6f0}.ztree[data-v-2deb67ae] .tmpTargetNode_inner{opacity:.8;color:#fff;background-color:#4fcbf0;filter:alpha(opacity=80)}.ztree[data-v-2deb67ae] .rename{font-size:12px;line-height:22px;width:80px;height:22px;margin:0;padding:0;vertical-align:top;border:0;background:none}.ztree[data-v-2deb67ae] .button{position:relative;display:inline-block;line-height:22px;height:22px;width:22px;cursor:pointer;text-align:center;vertical-align:middle}.ztree[data-v-2deb67ae] .button.edit{color:#25ae88}.ztree[data-v-2deb67ae] .button.remove{color:#cb4042}.ztree[data-v-2deb67ae] .button.chk{position:relative;width:14px;height:14px;margin:0 4px 0 0;border:1px solid #d7dde4;border-radius:2px;background:#fff}.ztree[data-v-2deb67ae] .chk.radio_false_disable,.ztree[data-v-2deb67ae] .chk.radio_false_full,.ztree[data-v-2deb67ae] .chk.radio_false_full_focus,.ztree[data-v-2deb67ae] .chk.radio_false_part,.ztree[data-v-2deb67ae] .chk.radio_false_part_focus,.ztree[data-v-2deb67ae] .chk.radio_true_disable,.ztree[data-v-2deb67ae] .chk.radio_true_full,.ztree[data-v-2deb67ae] .chk.radio_true_full_focus,.ztree[data-v-2deb67ae] .chk.radio_true_part,.ztree[data-v-2deb67ae] .chk.radio_true_part_focus{border-radius:8px}.ztree[data-v-2deb67ae] .button.chk:after{position:absolute;top:1px;left:4px;width:4px;height:8px;content:\"\";transition:-webkit-transform .2s ease-in-out;-webkit-transition:-webkit-transform .2s ease-in-out;transition:transform .2s ease-in-out;transition:transform .2s ease-in-out,-webkit-transform .2s ease-in-out;-webkit-transform:rotate(0deg) scale(0);transform:rotate(0deg) scale(0);border-right:2px solid #fff;border-bottom:2px solid #fff}.ztree[data-v-2deb67ae] .button.checkbox_false_full_focus{border-color:#ccc}.ztree[data-v-2deb67ae] .button.checkbox_true_disable,.ztree[data-v-2deb67ae] .button.checkbox_true_full,.ztree[data-v-2deb67ae] .button.checkbox_true_full_focus,.ztree[data-v-2deb67ae] .button.checkbox_true_part,.ztree[data-v-2deb67ae] .button.checkbox_true_part_focus{border-color:#39f;background-color:#39f}.ztree[data-v-2deb67ae] .button.checkbox_true_disable:after,.ztree[data-v-2deb67ae] .button.checkbox_true_full:after,.ztree[data-v-2deb67ae] .button.checkbox_true_full_focus:after{-webkit-transform:rotate(45deg) scale(1);transform:rotate(45deg) scale(1)}.ztree[data-v-2deb67ae] .button.checkbox_true_part:after,.ztree[data-v-2deb67ae] .button.checkbox_true_part_focus:after{top:5px;left:2px;width:10px;height:1px;-webkit-transform:rotate(0deg) scale(1);transform:rotate(0deg) scale(1);border-right:0}.ztree[data-v-2deb67ae] .button.radio_true_full,.ztree[data-v-2deb67ae] .chk.radio_true_full_focus,.ztree[data-v-2deb67ae] .chk.radio_true_part,.ztree[data-v-2deb67ae] .chk.radio_true_part_focus{border-color:#39f}.ztree[data-v-2deb67ae] .button.radio_true_full:after,.ztree[data-v-2deb67ae] .chk.radio_true_full_focus:after,.ztree[data-v-2deb67ae] .chk.radio_true_part:after,.ztree[data-v-2deb67ae] .chk.radio_true_part_focus:after{top:3px;left:3px;width:8px;-webkit-transform:rotate(0deg) scale(1);transform:rotate(0deg) scale(1);border:0;border-radius:4px;background:#39f}.ztree[data-v-2deb67ae] .button.checkbox_false_disable,.ztree[data-v-2deb67ae] .button.checkbox_true_disable,.ztree[data-v-2deb67ae] .chk.radio_false_disable,.ztree[data-v-2deb67ae] .chk.radio_true_disable{cursor:not-allowed}.ztree[data-v-2deb67ae] .button.checkbox_false_disable{background-color:#f3f3f3}.ztree[data-v-2deb67ae] .button.bottom_close:before,.ztree[data-v-2deb67ae] .button.bottom_open:before,.ztree[data-v-2deb67ae] .button.center_close:before,.ztree[data-v-2deb67ae] .button.center_open:before,.ztree[data-v-2deb67ae] .button.noline_close:before,.ztree[data-v-2deb67ae] .button.noline_open:before,.ztree[data-v-2deb67ae] .button.root_close:before,.ztree[data-v-2deb67ae] .button.root_open:before,.ztree[data-v-2deb67ae] .button.roots_close:before,.ztree[data-v-2deb67ae] .button.roots_open:before{position:absolute;top:5px;left:5px;content:\"\";transition:-webkit-transform .3s ease;-webkit-transition:-webkit-transform .3s ease;transition:transform .3s ease;transition:transform .3s ease,-webkit-transform .3s ease;-webkit-transform:rotate(0deg);transform:rotate(0deg);-webkit-transform-origin:25% 50%;transform-origin:25% 50%;border:6px solid;border-color:transparent transparent transparent #666}.ztree[data-v-2deb67ae] .button.bottom_open:before,.ztree[data-v-2deb67ae] .button.center_open:before,.ztree[data-v-2deb67ae] .button.noline_open:before,.ztree[data-v-2deb67ae] .button.root_open:before,.ztree[data-v-2deb67ae] .button.roots_open:before{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.ztree[data-v-2deb67ae] .button.ico_loading{margin-right:2px;background:url(\"data:image/gif;base64,R0lGODlhEAAQAKIGAMLY8YSx5HOm4Mjc88/g9Ofw+v///wAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAGACwAAAAAEAAQAAADMGi6RbUwGjKIXCAA016PgRBElAVlG/RdLOO0X9nK61W39qvqiwz5Ls/rRqrggsdkAgAh+QQFCgAGACwCAAAABwAFAAADD2hqELAmiFBIYY4MAutdCQAh+QQFCgAGACwGAAAABwAFAAADD1hU1kaDOKMYCGAGEeYFCQAh+QQFCgAGACwKAAIABQAHAAADEFhUZjSkKdZqBQG0IELDQAIAIfkEBQoABgAsCgAGAAUABwAAAxBoVlRKgyjmlAIBqCDCzUoCACH5BAUKAAYALAYACgAHAAUAAAMPaGpFtYYMAgJgLogA610JACH5BAUKAAYALAIACgAHAAUAAAMPCAHWFiI4o1ghZZJB5i0JACH5BAUKAAYALAAABgAFAAcAAAMQCAFmIaEp1motpDQySMNFAgA7\") 0 no-repeat}.ztree[data-v-2deb67ae] .tmpTargetzTree{opacity:.8;background-color:#2ea9df;filter:alpha(opacity=80)}.ztree[data-v-2deb67ae] .tmpzTreeMove_arrow{position:absolute;width:18px;height:18px;color:#4fcbf0}", ""]);
+// Exports
+module.exports = exports;
+
+
+/***/ }),
+
+/***/ "43b2":
+/***/ (function(module, exports) {
+
+/*
+ * JQuery zTree excheck
+ * v3.5.48
+ * http://treejs.cn/
+ *
+ * Copyright (c) 2010 Hunter.z
+ *
+ * Licensed same as jquery - MIT License
+ * http://www.opensource.org/licenses/mit-license.php
+ *
+ * Date: 2020-11-21
+ */
+
+(function ($) {
+  //default consts of excheck
+  var _consts = {
+      event: {
+        CHECK: "ztree_check"
+      },
+      id: {
+        CHECK: "_check"
+      },
+      checkbox: {
+        STYLE: "checkbox",
+        DEFAULT: "chk",
+        DISABLED: "disable",
+        FALSE: "false",
+        TRUE: "true",
+        FULL: "full",
+        PART: "part",
+        FOCUS: "focus"
+      },
+      radio: {
+        STYLE: "radio",
+        TYPE_ALL: "all",
+        TYPE_LEVEL: "level"
+      }
+    },
+    //default setting of excheck
+    _setting = {
+      check: {
+        enable: false,
+        autoCheckTrigger: false,
+        chkStyle: _consts.checkbox.STYLE,
+        nocheckInherit: false,
+        chkDisabledInherit: false,
+        radioType: _consts.radio.TYPE_LEVEL,
+        chkboxType: {
+          "Y": "ps",
+          "N": "ps"
+        }
+      },
+      data: {
+        key: {
+          checked: "checked"
+        }
+      },
+      callback: {
+        beforeCheck: null,
+        onCheck: null
+      }
+    },
+    //default root of excheck
+    _initRoot = function (setting) {
+      var r = data.getRoot(setting);
+      r.radioCheckedList = [];
+    },
+    //default cache of excheck
+    _initCache = function (treeId) {
+    },
+    //default bind event of excheck
+    _bindEvent = function (setting) {
+      var o = setting.treeObj,
+        c = consts.event;
+      o.bind(c.CHECK, function (event, srcEvent, treeId, node) {
+        event.srcEvent = srcEvent;
+        tools.apply(setting.callback.onCheck, [event, treeId, node]);
+      });
+    },
+    _unbindEvent = function (setting) {
+      var o = setting.treeObj,
+        c = consts.event;
+      o.unbind(c.CHECK);
+    },
+    //default event proxy of excheck
+    _eventProxy = function (e) {
+      var target = e.target,
+        setting = data.getSetting(e.data.treeId),
+        tId = "", node = null,
+        nodeEventType = "", treeEventType = "",
+        nodeEventCallback = null, treeEventCallback = null;
+
+      if (tools.eqs(e.type, "mouseover")) {
+        if (setting.check.enable && tools.eqs(target.tagName, "span") && target.getAttribute("treeNode" + consts.id.CHECK) !== null) {
+          tId = tools.getNodeMainDom(target).id;
+          nodeEventType = "mouseoverCheck";
+        }
+      } else if (tools.eqs(e.type, "mouseout")) {
+        if (setting.check.enable && tools.eqs(target.tagName, "span") && target.getAttribute("treeNode" + consts.id.CHECK) !== null) {
+          tId = tools.getNodeMainDom(target).id;
+          nodeEventType = "mouseoutCheck";
+        }
+      } else if (tools.eqs(e.type, "click")) {
+        if (setting.check.enable && tools.eqs(target.tagName, "span") && target.getAttribute("treeNode" + consts.id.CHECK) !== null) {
+          tId = tools.getNodeMainDom(target).id;
+          nodeEventType = "checkNode";
+        }
+      }
+      if (tId.length > 0) {
+        node = data.getNodeCache(setting, tId);
+        switch (nodeEventType) {
+          case "checkNode" :
+            nodeEventCallback = _handler.onCheckNode;
+            break;
+          case "mouseoverCheck" :
+            nodeEventCallback = _handler.onMouseoverCheck;
+            break;
+          case "mouseoutCheck" :
+            nodeEventCallback = _handler.onMouseoutCheck;
+            break;
+        }
+      }
+      var proxyResult = {
+        stop: nodeEventType === "checkNode",
+        node: node,
+        nodeEventType: nodeEventType,
+        nodeEventCallback: nodeEventCallback,
+        treeEventType: treeEventType,
+        treeEventCallback: treeEventCallback
+      };
+      return proxyResult
+    },
+    //default init node of excheck
+    _initNode = function (setting, level, n, parentNode, isFirstNode, isLastNode, openFlag) {
+      if (!n) return;
+      var checked = data.nodeChecked(setting, n);
+      n.checkedOld = checked;
+      if (typeof n.nocheck == "string") n.nocheck = tools.eqs(n.nocheck, "true");
+      n.nocheck = !!n.nocheck || (setting.check.nocheckInherit && parentNode && !!parentNode.nocheck);
+      if (typeof n.chkDisabled == "string") n.chkDisabled = tools.eqs(n.chkDisabled, "true");
+      n.chkDisabled = !!n.chkDisabled || (setting.check.chkDisabledInherit && parentNode && !!parentNode.chkDisabled);
+      if (typeof n.halfCheck == "string") n.halfCheck = tools.eqs(n.halfCheck, "true");
+      n.halfCheck = !!n.halfCheck;
+      n.check_Child_State = -1;
+      n.check_Focus = false;
+      n.getCheckStatus = function () {
+        return data.getCheckStatus(setting, n);
+      };
+
+      if (setting.check.chkStyle == consts.radio.STYLE && setting.check.radioType == consts.radio.TYPE_ALL && checked) {
+        var r = data.getRoot(setting);
+        r.radioCheckedList.push(n);
+      }
+    },
+    //add dom for check
+    _beforeA = function (setting, node, html) {
+      if (setting.check.enable) {
+        data.makeChkFlag(setting, node);
+        html.push("<span ID='", node.tId, consts.id.CHECK, "' class='", view.makeChkClass(setting, node), "' treeNode", consts.id.CHECK, (node.nocheck === true ? " style='display:none;'" : ""), "></span>");
+      }
+    },
+    //update zTreeObj, add method of check
+    _zTreeTools = function (setting, zTreeTools) {
+      zTreeTools.checkNode = function (node, checked, checkTypeFlag, callbackFlag) {
+        var nodeChecked = data.nodeChecked(setting, node);
+        if (node.chkDisabled === true) return;
+        if (checked !== true && checked !== false) {
+          checked = !nodeChecked;
+        }
+        callbackFlag = !!callbackFlag;
+
+        if (nodeChecked === checked && !checkTypeFlag) {
+          return;
+        } else if (callbackFlag && tools.apply(this.setting.callback.beforeCheck, [this.setting.treeId, node], true) == false) {
+          return;
+        }
+        if (tools.uCanDo(this.setting) && this.setting.check.enable && node.nocheck !== true) {
+          data.nodeChecked(setting, node, checked);
+          var checkObj = $$(node, consts.id.CHECK, this.setting);
+          if (checkTypeFlag || this.setting.check.chkStyle === consts.radio.STYLE) view.checkNodeRelation(this.setting, node);
+          view.setChkClass(this.setting, checkObj, node);
+          view.repairParentChkClassWithSelf(this.setting, node);
+          if (callbackFlag) {
+            this.setting.treeObj.trigger(consts.event.CHECK, [null, this.setting.treeId, node]);
+          }
+        }
+      }
+
+      zTreeTools.checkAllNodes = function (checked) {
+        view.repairAllChk(this.setting, !!checked);
+      }
+
+      zTreeTools.getCheckedNodes = function (checked) {
+        checked = (checked !== false);
+        var children = data.nodeChildren(setting, data.getRoot(this.setting));
+        return data.getTreeCheckedNodes(this.setting, children, checked);
+      }
+
+      zTreeTools.getChangeCheckedNodes = function () {
+        var children = data.nodeChildren(setting, data.getRoot(this.setting));
+        return data.getTreeChangeCheckedNodes(this.setting, children);
+      }
+
+      zTreeTools.setChkDisabled = function (node, disabled, inheritParent, inheritChildren) {
+        disabled = !!disabled;
+        inheritParent = !!inheritParent;
+        inheritChildren = !!inheritChildren;
+        view.repairSonChkDisabled(this.setting, node, disabled, inheritChildren);
+        view.repairParentChkDisabled(this.setting, node.getParentNode(), disabled, inheritParent);
+      }
+
+      var _updateNode = zTreeTools.updateNode;
+      zTreeTools.updateNode = function (node, checkTypeFlag) {
+        if (_updateNode) _updateNode.apply(zTreeTools, arguments);
+        if (!node || !this.setting.check.enable) return;
+        var nObj = $$(node, this.setting);
+        if (nObj.get(0) && tools.uCanDo(this.setting)) {
+          var checkObj = $$(node, consts.id.CHECK, this.setting);
+          if (checkTypeFlag == true || this.setting.check.chkStyle === consts.radio.STYLE) view.checkNodeRelation(this.setting, node);
+          view.setChkClass(this.setting, checkObj, node);
+          view.repairParentChkClassWithSelf(this.setting, node);
+        }
+      }
+    },
+    //method of operate data
+    _data = {
+      getRadioCheckedList: function (setting) {
+        var checkedList = data.getRoot(setting).radioCheckedList;
+        for (var i = 0, j = checkedList.length; i < j; i++) {
+          if (!data.getNodeCache(setting, checkedList[i].tId)) {
+            checkedList.splice(i, 1);
+            i--;
+            j--;
+          }
+        }
+        return checkedList;
+      },
+      getCheckStatus: function (setting, node) {
+        if (!setting.check.enable || node.nocheck || node.chkDisabled) return null;
+        var checked = data.nodeChecked(setting, node),
+          r = {
+            checked: checked,
+            half: node.halfCheck ? node.halfCheck : (setting.check.chkStyle == consts.radio.STYLE ? (node.check_Child_State === 2) : (checked ? (node.check_Child_State > -1 && node.check_Child_State < 2) : (node.check_Child_State > 0)))
+          };
+        return r;
+      },
+      getTreeCheckedNodes: function (setting, nodes, checked, results) {
+        if (!nodes) return [];
+        var onlyOne = (checked && setting.check.chkStyle == consts.radio.STYLE && setting.check.radioType == consts.radio.TYPE_ALL);
+        results = !results ? [] : results;
+        for (var i = 0, l = nodes.length; i < l; i++) {
+          var node = nodes[i];
+          var children = data.nodeChildren(setting, node);
+          var nodeChecked = data.nodeChecked(setting, node);
+          if (node.nocheck !== true && node.chkDisabled !== true && nodeChecked == checked) {
+            results.push(node);
+            if (onlyOne) {
+              break;
+            }
+          }
+          data.getTreeCheckedNodes(setting, children, checked, results);
+          if (onlyOne && results.length > 0) {
+            break;
+          }
+        }
+        return results;
+      },
+      getTreeChangeCheckedNodes: function (setting, nodes, results) {
+        if (!nodes) return [];
+        results = !results ? [] : results;
+        for (var i = 0, l = nodes.length; i < l; i++) {
+          var node = nodes[i];
+          var children = data.nodeChildren(setting, node);
+          var nodeChecked = data.nodeChecked(setting, node);
+          if (node.nocheck !== true && node.chkDisabled !== true && nodeChecked != node.checkedOld) {
+            results.push(node);
+          }
+          data.getTreeChangeCheckedNodes(setting, children, results);
+        }
+        return results;
+      },
+      makeChkFlag: function (setting, node) {
+        if (!node) return;
+        var chkFlag = -1;
+        var children = data.nodeChildren(setting, node);
+        if (children) {
+          for (var i = 0, l = children.length; i < l; i++) {
+            var cNode = children[i];
+            var nodeChecked = data.nodeChecked(setting, cNode);
+            var tmp = -1;
+            if (setting.check.chkStyle == consts.radio.STYLE) {
+              if (cNode.nocheck === true || cNode.chkDisabled === true) {
+                tmp = cNode.check_Child_State;
+              } else if (cNode.halfCheck === true) {
+                tmp = 2;
+              } else if (nodeChecked) {
+                tmp = 2;
+              } else {
+                tmp = cNode.check_Child_State > 0 ? 2 : 0;
+              }
+              if (tmp == 2) {
+                chkFlag = 2;
+                break;
+              } else if (tmp == 0) {
+                chkFlag = 0;
+              }
+            } else if (setting.check.chkStyle == consts.checkbox.STYLE) {
+              if (cNode.nocheck === true || cNode.chkDisabled === true) {
+                tmp = cNode.check_Child_State;
+              } else if (cNode.halfCheck === true) {
+                tmp = 1;
+              } else if (nodeChecked) {
+                tmp = (cNode.check_Child_State === -1 || cNode.check_Child_State === 2) ? 2 : 1;
+              } else {
+                tmp = (cNode.check_Child_State > 0) ? 1 : 0;
+              }
+              if (tmp === 1) {
+                chkFlag = 1;
+                break;
+              } else if (tmp === 2 && chkFlag > -1 && i > 0 && tmp !== chkFlag) {
+                chkFlag = 1;
+                break;
+              } else if (chkFlag === 2 && tmp > -1 && tmp < 2) {
+                chkFlag = 1;
+                break;
+              } else if (tmp > -1) {
+                chkFlag = tmp;
+              }
+            }
+          }
+        }
+        node.check_Child_State = chkFlag;
+      }
+    },
+    //method of event proxy
+    _event = {},
+    //method of event handler
+    _handler = {
+      onCheckNode: function (event, node) {
+        if (node.chkDisabled === true) return false;
+        var setting = data.getSetting(event.data.treeId);
+        if (tools.apply(setting.callback.beforeCheck, [setting.treeId, node], true) == false) return true;
+        var nodeChecked = data.nodeChecked(setting, node);
+        data.nodeChecked(setting, node, !nodeChecked);
+        view.checkNodeRelation(setting, node);
+        var checkObj = $$(node, consts.id.CHECK, setting);
+        view.setChkClass(setting, checkObj, node);
+        view.repairParentChkClassWithSelf(setting, node);
+        setting.treeObj.trigger(consts.event.CHECK, [event, setting.treeId, node]);
+        return true;
+      },
+      onMouseoverCheck: function (event, node) {
+        if (node.chkDisabled === true) return false;
+        var setting = data.getSetting(event.data.treeId),
+          checkObj = $$(node, consts.id.CHECK, setting);
+        node.check_Focus = true;
+        view.setChkClass(setting, checkObj, node);
+        return true;
+      },
+      onMouseoutCheck: function (event, node) {
+        if (node.chkDisabled === true) return false;
+        var setting = data.getSetting(event.data.treeId),
+          checkObj = $$(node, consts.id.CHECK, setting);
+        node.check_Focus = false;
+        view.setChkClass(setting, checkObj, node);
+        return true;
+      }
+    },
+    //method of tools for zTree
+    _tools = {},
+    //method of operate ztree dom
+    _view = {
+      checkNodeRelation: function (setting, node) {
+        var pNode, i, l,
+          r = consts.radio;
+        var nodeChecked = data.nodeChecked(setting, node);
+        if (setting.check.chkStyle == r.STYLE) {
+          var checkedList = data.getRadioCheckedList(setting);
+          if (nodeChecked) {
+            if (setting.check.radioType == r.TYPE_ALL) {
+              for (i = checkedList.length - 1; i >= 0; i--) {
+                pNode = checkedList[i];
+                var pNodeChecked = data.nodeChecked(setting, pNode);
+                if (pNodeChecked && pNode != node) {
+                  data.nodeChecked(setting, pNode, false);
+                  checkedList.splice(i, 1);
+
+                  view.setChkClass(setting, $$(pNode, consts.id.CHECK, setting), pNode);
+                  if (pNode.parentTId != node.parentTId) {
+                    view.repairParentChkClassWithSelf(setting, pNode);
+                  }
+                }
+              }
+              checkedList.push(node);
+            } else {
+              var parentNode = (node.parentTId) ? node.getParentNode() : data.getRoot(setting);
+              var children = data.nodeChildren(setting, parentNode);
+              for (i = 0, l = children.length; i < l; i++) {
+                pNode = children[i];
+                var pNodeChecked = data.nodeChecked(setting, pNode);
+                if (pNodeChecked && pNode != node) {
+                  data.nodeChecked(setting, pNode, false);
+                  view.setChkClass(setting, $$(pNode, consts.id.CHECK, setting), pNode);
+                }
+              }
+            }
+          } else if (setting.check.radioType == r.TYPE_ALL) {
+            for (i = 0, l = checkedList.length; i < l; i++) {
+              if (node == checkedList[i]) {
+                checkedList.splice(i, 1);
+                break;
+              }
+            }
+          }
+
+        } else {
+          var children = data.nodeChildren(setting, node);
+          if (nodeChecked && (!children || children.length == 0 || setting.check.chkboxType.Y.indexOf("s") > -1)) {
+            view.setSonNodeCheckBox(setting, node, true);
+          }
+          if (!nodeChecked && (!children || children.length == 0 || setting.check.chkboxType.N.indexOf("s") > -1)) {
+            view.setSonNodeCheckBox(setting, node, false);
+          }
+          if (nodeChecked && setting.check.chkboxType.Y.indexOf("p") > -1) {
+            view.setParentNodeCheckBox(setting, node, true);
+          }
+          if (!nodeChecked && setting.check.chkboxType.N.indexOf("p") > -1) {
+            view.setParentNodeCheckBox(setting, node, false);
+          }
+        }
+      },
+      makeChkClass: function (setting, node) {
+        var c = consts.checkbox, r = consts.radio,
+          fullStyle = "";
+        var nodeChecked = data.nodeChecked(setting, node);
+        if (node.chkDisabled === true) {
+          fullStyle = c.DISABLED;
+        } else if (node.halfCheck) {
+          fullStyle = c.PART;
+        } else if (setting.check.chkStyle == r.STYLE) {
+          fullStyle = (node.check_Child_State < 1) ? c.FULL : c.PART;
+        } else {
+          fullStyle = nodeChecked ? ((node.check_Child_State === 2 || node.check_Child_State === -1) ? c.FULL : c.PART) : ((node.check_Child_State < 1) ? c.FULL : c.PART);
+        }
+        var chkName = setting.check.chkStyle + "_" + (nodeChecked ? c.TRUE : c.FALSE) + "_" + fullStyle;
+        chkName = (node.check_Focus && node.chkDisabled !== true) ? chkName + "_" + c.FOCUS : chkName;
+        return consts.className.BUTTON + " " + c.DEFAULT + " " + chkName;
+      },
+      repairAllChk: function (setting, checked) {
+        if (setting.check.enable && setting.check.chkStyle === consts.checkbox.STYLE) {
+          var root = data.getRoot(setting);
+          var children = data.nodeChildren(setting, root);
+          for (var i = 0, l = children.length; i < l; i++) {
+            var node = children[i];
+            if (node.nocheck !== true && node.chkDisabled !== true) {
+              data.nodeChecked(setting, node, checked);
+            }
+            view.setSonNodeCheckBox(setting, node, checked);
+          }
+        }
+      },
+      repairChkClass: function (setting, node) {
+        if (!node) return;
+        data.makeChkFlag(setting, node);
+        if (node.nocheck !== true) {
+          var checkObj = $$(node, consts.id.CHECK, setting);
+          view.setChkClass(setting, checkObj, node);
+        }
+      },
+      repairParentChkClass: function (setting, node) {
+        if (!node || !node.parentTId) return;
+        var pNode = node.getParentNode();
+        view.repairChkClass(setting, pNode);
+        view.repairParentChkClass(setting, pNode);
+      },
+      repairParentChkClassWithSelf: function (setting, node) {
+        if (!node) return;
+        var children = data.nodeChildren(setting, node);
+        if (children && children.length > 0) {
+          view.repairParentChkClass(setting, children[0]);
+        } else {
+          view.repairParentChkClass(setting, node);
+        }
+      },
+      repairSonChkDisabled: function (setting, node, chkDisabled, inherit) {
+        if (!node) return;
+        if (node.chkDisabled != chkDisabled) {
+          node.chkDisabled = chkDisabled;
+        }
+        view.repairChkClass(setting, node);
+        var children = data.nodeChildren(setting, node);
+        if (children && inherit) {
+          for (var i = 0, l = children.length; i < l; i++) {
+            var sNode = children[i];
+            view.repairSonChkDisabled(setting, sNode, chkDisabled, inherit);
+          }
+        }
+      },
+      repairParentChkDisabled: function (setting, node, chkDisabled, inherit) {
+        if (!node) return;
+        if (node.chkDisabled != chkDisabled && inherit) {
+          node.chkDisabled = chkDisabled;
+        }
+        view.repairChkClass(setting, node);
+        view.repairParentChkDisabled(setting, node.getParentNode(), chkDisabled, inherit);
+      },
+      setChkClass: function (setting, obj, node) {
+        if (!obj) return;
+        if (node.nocheck === true) {
+          obj.hide();
+        } else {
+          obj.show();
+        }
+        obj.attr('class', view.makeChkClass(setting, node));
+      },
+      setParentNodeCheckBox: function (setting, node, value, srcNode) {
+        var checkObj = $$(node, consts.id.CHECK, setting);
+        if (!srcNode) srcNode = node;
+        data.makeChkFlag(setting, node);
+        if (node.nocheck !== true && node.chkDisabled !== true) {
+          data.nodeChecked(setting, node, value);
+          view.setChkClass(setting, checkObj, node);
+          if (setting.check.autoCheckTrigger && node != srcNode) {
+            setting.treeObj.trigger(consts.event.CHECK, [null, setting.treeId, node]);
+          }
+        }
+        if (node.parentTId) {
+          var pSign = true;
+          if (!value) {
+            var pNodes = data.nodeChildren(setting, node.getParentNode());
+            for (var i = 0, l = pNodes.length; i < l; i++) {
+              var pNode = pNodes[i];
+              var nodeChecked = data.nodeChecked(setting, pNode);
+              if ((pNode.nocheck !== true && pNode.chkDisabled !== true && nodeChecked)
+                || ((pNode.nocheck === true || pNode.chkDisabled === true) && pNode.check_Child_State > 0)) {
+                pSign = false;
+                break;
+              }
+            }
+          }
+          if (pSign) {
+            view.setParentNodeCheckBox(setting, node.getParentNode(), value, srcNode);
+          }
+        }
+      },
+      setSonNodeCheckBox: function (setting, node, value, srcNode) {
+        if (!node) return;
+        var checkObj = $$(node, consts.id.CHECK, setting);
+        if (!srcNode) srcNode = node;
+
+        var hasDisable = false;
+        var children = data.nodeChildren(setting, node);
+        if (children) {
+          for (var i = 0, l = children.length; i < l; i++) {
+            var sNode = children[i];
+            view.setSonNodeCheckBox(setting, sNode, value, srcNode);
+            if (sNode.chkDisabled === true) hasDisable = true;
+          }
+        }
+
+        if (node != data.getRoot(setting) && node.chkDisabled !== true) {
+          if (hasDisable && node.nocheck !== true) {
+            data.makeChkFlag(setting, node);
+          }
+          if (node.nocheck !== true && node.chkDisabled !== true) {
+            data.nodeChecked(setting, node, value);
+            if (!hasDisable) node.check_Child_State = (children && children.length > 0) ? (value ? 2 : 0) : -1;
+          } else {
+            node.check_Child_State = -1;
+          }
+          view.setChkClass(setting, checkObj, node);
+          if (setting.check.autoCheckTrigger && node != srcNode && node.nocheck !== true && node.chkDisabled !== true) {
+            setting.treeObj.trigger(consts.event.CHECK, [null, setting.treeId, node]);
+          }
+        }
+
+      }
+    },
+
+    _z = {
+      tools: _tools,
+      view: _view,
+      event: _event,
+      data: _data
+    };
+  $.extend(true, $.fn.zTree.consts, _consts);
+  $.extend(true, $.fn.zTree._z, _z);
+
+  var zt = $.fn.zTree,
+    tools = zt._z.tools,
+    consts = zt.consts,
+    view = zt._z.view,
+    data = zt._z.data,
+    event = zt._z.event,
+    $$ = tools.$;
+
+  data.nodeChecked = function (setting, node, newChecked) {
+    if (!node) {
+      return false;
+    }
+    var key = setting.data.key.checked;
+    if (typeof newChecked !== 'undefined') {
+      if (typeof newChecked === "string") {
+        newChecked = tools.eqs(newChecked, "true");
+      }
+      newChecked = !!newChecked;
+      node[key] = newChecked;
+    } else if (typeof node[key] == "string"){
+      node[key] = tools.eqs(node[key], "true");
+    } else {
+      node[key] = !!node[key];
+    }
+    return node[key];
+  };
+
+  data.exSetting(_setting);
+  data.addInitBind(_bindEvent);
+  data.addInitUnBind(_unbindEvent);
+  data.addInitCache(_initCache);
+  data.addInitNode(_initNode);
+  data.addInitProxy(_eventProxy, true);
+  data.addInitRoot(_initRoot);
+  data.addBeforeA(_beforeA);
+  data.addZTreeTools(_zTreeTools);
+
+  var _createNodes = view.createNodes;
+  view.createNodes = function (setting, level, nodes, parentNode, index) {
+    if (_createNodes) _createNodes.apply(view, arguments);
+    if (!nodes) return;
+    view.repairParentChkClassWithSelf(setting, parentNode);
+  }
+  var _removeNode = view.removeNode;
+  view.removeNode = function (setting, node) {
+    var parentNode = node.getParentNode();
+    if (_removeNode) _removeNode.apply(view, arguments);
+    if (!node || !parentNode) return;
+    view.repairChkClass(setting, parentNode);
+    view.repairParentChkClass(setting, parentNode);
+  }
+
+  var _appendNodes = view.appendNodes;
+  view.appendNodes = function (setting, level, nodes, parentNode, index, initFlag, openFlag) {
+    var html = "";
+    if (_appendNodes) {
+      html = _appendNodes.apply(view, arguments);
+    }
+    if (parentNode) {
+      data.makeChkFlag(setting, parentNode);
+    }
+    return html;
+  }
+})(jQuery);
 
 /***/ }),
 
@@ -11917,6 +12575,417 @@ module.exports = function (argument) {
   throw TypeError(tryToString(argument) + ' is not a function');
 };
 
+
+/***/ }),
+
+/***/ "5aa5":
+/***/ (function(module, exports) {
+
+/*
+ * JQuery zTree exHideNodes
+ * v3.5.48
+ * http://treejs.cn/
+ *
+ * Copyright (c) 2010 Hunter.z
+ *
+ * Licensed same as jquery - MIT License
+ * http://www.opensource.org/licenses/mit-license.php
+ *
+ * Date: 2020-11-21
+ */
+
+(function ($) {
+  var _setting = {
+    data: {
+      key: {
+        isHidden: "isHidden"
+      }
+    }
+  };
+  //default init node of exLib
+  var _initNode = function (setting, level, n, parentNode, isFirstNode, isLastNode, openFlag) {
+      var isHidden = data.isHidden(setting, n);
+      data.isHidden(setting, n, isHidden);
+      data.initHideForExCheck(setting, n);
+    },
+    //add dom for check
+    _beforeA = function (setting, node, html) {
+    },
+    //update zTreeObj, add method of exLib
+    _zTreeTools = function (setting, zTreeTools) {
+      zTreeTools.showNodes = function (nodes, options) {
+        view.showNodes(setting, nodes, options);
+      }
+      zTreeTools.showNode = function (node, options) {
+        if (!node) {
+          return;
+        }
+        view.showNodes(setting, [node], options);
+      }
+      zTreeTools.hideNodes = function (nodes, options) {
+        view.hideNodes(setting, nodes, options);
+      }
+      zTreeTools.hideNode = function (node, options) {
+        if (!node) {
+          return;
+        }
+        view.hideNodes(setting, [node], options);
+      }
+
+      var _checkNode = zTreeTools.checkNode;
+      if (_checkNode) {
+        zTreeTools.checkNode = function (node, checked, checkTypeFlag, callbackFlag) {
+          if (!!node && !!data.isHidden(setting, node)) {
+            return;
+          }
+          _checkNode.apply(zTreeTools, arguments);
+        }
+      }
+    },
+    //method of operate data
+    _data = {
+      initHideForExCheck: function (setting, n) {
+        var isHidden = data.isHidden(setting, n);
+        if (isHidden && setting.check && setting.check.enable) {
+          if (typeof n._nocheck == "undefined") {
+            n._nocheck = !!n.nocheck
+            n.nocheck = true;
+          }
+          n.check_Child_State = -1;
+          if (view.repairParentChkClassWithSelf) {
+            view.repairParentChkClassWithSelf(setting, n);
+          }
+        }
+      },
+      initShowForExCheck: function (setting, n) {
+        var isHidden = data.isHidden(setting, n);
+        if (!isHidden && setting.check && setting.check.enable) {
+          if (typeof n._nocheck != "undefined") {
+            n.nocheck = n._nocheck;
+            delete n._nocheck;
+          }
+          if (view.setChkClass) {
+            var checkObj = $$(n, consts.id.CHECK, setting);
+            view.setChkClass(setting, checkObj, n);
+          }
+          if (view.repairParentChkClassWithSelf) {
+            view.repairParentChkClassWithSelf(setting, n);
+          }
+        }
+      }
+    },
+    //method of operate ztree dom
+    _view = {
+      clearOldFirstNode: function (setting, node) {
+        var n = node.getNextNode();
+        while (!!n) {
+          if (n.isFirstNode) {
+            n.isFirstNode = false;
+            view.setNodeLineIcos(setting, n);
+            break;
+          }
+          if (n.isLastNode) {
+            break;
+          }
+          n = n.getNextNode();
+        }
+      },
+      clearOldLastNode: function (setting, node, openFlag) {
+        var n = node.getPreNode();
+        while (!!n) {
+          if (n.isLastNode) {
+            n.isLastNode = false;
+            if (openFlag) {
+              view.setNodeLineIcos(setting, n);
+            }
+            break;
+          }
+          if (n.isFirstNode) {
+            break;
+          }
+          n = n.getPreNode();
+        }
+      },
+      makeDOMNodeMainBefore: function (html, setting, node) {
+        var isHidden = data.isHidden(setting, node);
+        html.push("<li ", (isHidden ? "style='display:none;' " : ""), "id='", node.tId, "' class='", consts.className.LEVEL, node.level, "' tabindex='0' hidefocus='true' treenode>");
+      },
+      showNode: function (setting, node, options) {
+        data.isHidden(setting, node, false);
+        data.initShowForExCheck(setting, node);
+        $$(node, setting).show();
+      },
+      showNodes: function (setting, nodes, options) {
+        if (!nodes || nodes.length == 0) {
+          return;
+        }
+        var pList = {}, i, j;
+        for (i = 0, j = nodes.length; i < j; i++) {
+          var n = nodes[i];
+          if (!pList[n.parentTId]) {
+            var pn = n.getParentNode();
+            pList[n.parentTId] = (pn === null) ? data.getRoot(setting) : n.getParentNode();
+          }
+          view.showNode(setting, n, options);
+        }
+        for (var tId in pList) {
+          var children = data.nodeChildren(setting, pList[tId]);
+          view.setFirstNodeForShow(setting, children);
+          view.setLastNodeForShow(setting, children);
+        }
+      },
+      hideNode: function (setting, node, options) {
+        data.isHidden(setting, node, true);
+        node.isFirstNode = false;
+        node.isLastNode = false;
+        data.initHideForExCheck(setting, node);
+        view.cancelPreSelectedNode(setting, node);
+        $$(node, setting).hide();
+      },
+      hideNodes: function (setting, nodes, options) {
+        if (!nodes || nodes.length == 0) {
+          return;
+        }
+        var pList = {}, i, j;
+        for (i = 0, j = nodes.length; i < j; i++) {
+          var n = nodes[i];
+          if ((n.isFirstNode || n.isLastNode) && !pList[n.parentTId]) {
+            var pn = n.getParentNode();
+            pList[n.parentTId] = (pn === null) ? data.getRoot(setting) : n.getParentNode();
+          }
+          view.hideNode(setting, n, options);
+        }
+        for (var tId in pList) {
+          var children = data.nodeChildren(setting, pList[tId]);
+          view.setFirstNodeForHide(setting, children);
+          view.setLastNodeForHide(setting, children);
+        }
+      },
+      setFirstNode: function (setting, parentNode) {
+        var children = data.nodeChildren(setting, parentNode);
+        var isHidden = data.isHidden(setting, children[0], false);
+        if (children.length > 0 && !isHidden) {
+          children[0].isFirstNode = true;
+        } else if (children.length > 0) {
+          view.setFirstNodeForHide(setting, children);
+        }
+      },
+      setLastNode: function (setting, parentNode) {
+        var children = data.nodeChildren(setting, parentNode);
+        var isHidden = data.isHidden(setting, children[0]);
+        if (children.length > 0 && !isHidden) {
+          children[children.length - 1].isLastNode = true;
+        } else if (children.length > 0) {
+          view.setLastNodeForHide(setting, children);
+        }
+      },
+      setFirstNodeForHide: function (setting, nodes) {
+        var n, i, j;
+        for (i = 0, j = nodes.length; i < j; i++) {
+          n = nodes[i];
+          if (n.isFirstNode) {
+            break;
+          }
+          var isHidden = data.isHidden(setting, n);
+          if (!isHidden && !n.isFirstNode) {
+            n.isFirstNode = true;
+            view.setNodeLineIcos(setting, n);
+            break;
+          } else {
+            n = null;
+          }
+        }
+        return n;
+      },
+      setFirstNodeForShow: function (setting, nodes) {
+        var n, i, j, first, old;
+        for (i = 0, j = nodes.length; i < j; i++) {
+          n = nodes[i];
+          var isHidden = data.isHidden(setting, n);
+          if (!first && !isHidden && n.isFirstNode) {
+            first = n;
+            break;
+          } else if (!first && !isHidden && !n.isFirstNode) {
+            n.isFirstNode = true;
+            first = n;
+            view.setNodeLineIcos(setting, n);
+          } else if (first && n.isFirstNode) {
+            n.isFirstNode = false;
+            old = n;
+            view.setNodeLineIcos(setting, n);
+            break;
+          } else {
+            n = null;
+          }
+        }
+        return {"new": first, "old": old};
+      },
+      setLastNodeForHide: function (setting, nodes) {
+        var n, i;
+        for (i = nodes.length - 1; i >= 0; i--) {
+          n = nodes[i];
+          if (n.isLastNode) {
+            break;
+          }
+          var isHidden = data.isHidden(setting, n);
+          if (!isHidden && !n.isLastNode) {
+            n.isLastNode = true;
+            view.setNodeLineIcos(setting, n);
+            break;
+          } else {
+            n = null;
+          }
+        }
+        return n;
+      },
+      setLastNodeForShow: function (setting, nodes) {
+        var n, i, j, last, old;
+        for (i = nodes.length - 1; i >= 0; i--) {
+          n = nodes[i];
+          var isHidden = data.isHidden(setting, n);
+          if (!last && !isHidden && n.isLastNode) {
+            last = n;
+            break;
+          } else if (!last && !isHidden && !n.isLastNode) {
+            n.isLastNode = true;
+            last = n;
+            view.setNodeLineIcos(setting, n);
+          } else if (last && n.isLastNode) {
+            n.isLastNode = false;
+            old = n;
+            view.setNodeLineIcos(setting, n);
+            break;
+          } else {
+            n = null;
+          }
+        }
+        return {"new": last, "old": old};
+      }
+    },
+
+    _z = {
+      view: _view,
+      data: _data
+    };
+  $.extend(true, $.fn.zTree._z, _z);
+
+  var zt = $.fn.zTree,
+    tools = zt._z.tools,
+    consts = zt.consts,
+    view = zt._z.view,
+    data = zt._z.data,
+    event = zt._z.event,
+    $$ = tools.$;
+
+  data.isHidden = function (setting, node, newIsHidden) {
+    if (!node) {
+      return false;
+    }
+    var key = setting.data.key.isHidden;
+    if (typeof newIsHidden !== 'undefined') {
+      if (typeof newIsHidden === "string") {
+        newIsHidden = tools.eqs(newIsHidden, "true");
+      }
+      newIsHidden = !!newIsHidden;
+      node[key] = newIsHidden;
+    } else if (typeof node[key] == "string"){
+      node[key] = tools.eqs(node[key], "true");
+    } else {
+      node[key] = !!node[key];
+    }
+    return node[key];
+  };
+
+  data.exSetting(_setting);
+  data.addInitNode(_initNode);
+  data.addBeforeA(_beforeA);
+  data.addZTreeTools(_zTreeTools);
+
+//	Override method in core
+  var _dInitNode = data.initNode;
+  data.initNode = function (setting, level, node, parentNode, isFirstNode, isLastNode, openFlag) {
+    var tmpPNode = (parentNode) ? parentNode : data.getRoot(setting),
+      children = tmpPNode[setting.data.key.children];
+    data.tmpHideFirstNode = view.setFirstNodeForHide(setting, children);
+    data.tmpHideLastNode = view.setLastNodeForHide(setting, children);
+    if (openFlag) {
+      view.setNodeLineIcos(setting, data.tmpHideFirstNode);
+      view.setNodeLineIcos(setting, data.tmpHideLastNode);
+    }
+    isFirstNode = (data.tmpHideFirstNode === node);
+    isLastNode = (data.tmpHideLastNode === node);
+    if (_dInitNode) _dInitNode.apply(data, arguments);
+    if (openFlag && isLastNode) {
+      view.clearOldLastNode(setting, node, openFlag);
+    }
+  };
+
+  var _makeChkFlag = data.makeChkFlag;
+  if (!!_makeChkFlag) {
+    data.makeChkFlag = function (setting, node) {
+      if (!!node && !!data.isHidden(setting, node)) {
+        return;
+      }
+      _makeChkFlag.apply(data, arguments);
+    }
+  }
+
+  var _getTreeCheckedNodes = data.getTreeCheckedNodes;
+  if (!!_getTreeCheckedNodes) {
+    data.getTreeCheckedNodes = function (setting, nodes, checked, results) {
+      if (!!nodes && nodes.length > 0) {
+        var p = nodes[0].getParentNode();
+        if (!!p && !!data.isHidden(setting, p)) {
+          return [];
+        }
+      }
+      return _getTreeCheckedNodes.apply(data, arguments);
+    }
+  }
+
+  var _getTreeChangeCheckedNodes = data.getTreeChangeCheckedNodes;
+  if (!!_getTreeChangeCheckedNodes) {
+    data.getTreeChangeCheckedNodes = function (setting, nodes, results) {
+      if (!!nodes && nodes.length > 0) {
+        var p = nodes[0].getParentNode();
+        if (!!p && !!data.isHidden(setting, p)) {
+          return [];
+        }
+      }
+      return _getTreeChangeCheckedNodes.apply(data, arguments);
+    }
+  }
+
+  var _expandCollapseSonNode = view.expandCollapseSonNode;
+  if (!!_expandCollapseSonNode) {
+    view.expandCollapseSonNode = function (setting, node, expandFlag, animateFlag, callback) {
+      if (!!node && !!data.isHidden(setting, node)) {
+        return;
+      }
+      _expandCollapseSonNode.apply(view, arguments);
+    }
+  }
+
+  var _setSonNodeCheckBox = view.setSonNodeCheckBox;
+  if (!!_setSonNodeCheckBox) {
+    view.setSonNodeCheckBox = function (setting, node, value, srcNode) {
+      if (!!node && !!data.isHidden(setting, node)) {
+        return;
+      }
+      _setSonNodeCheckBox.apply(view, arguments);
+    }
+  }
+
+  var _repairParentChkClassWithSelf = view.repairParentChkClassWithSelf;
+  if (!!_repairParentChkClassWithSelf) {
+    view.repairParentChkClassWithSelf = function (setting, node) {
+      if (!!node && !!data.isHidden(setting, node)) {
+        return;
+      }
+      _repairParentChkClassWithSelf.apply(view, arguments);
+    }
+  }
+})(jQuery);
 
 /***/ }),
 
@@ -12421,7 +13490,167 @@ module.exports = DESCRIPTORS ? function (object, key, value) {
 
 /***/ }),
 
-/***/ "91e5":
+/***/ "94ca":
+/***/ (function(module, exports, __webpack_require__) {
+
+var fails = __webpack_require__("d039");
+var isCallable = __webpack_require__("1626");
+
+var replacement = /#|\.prototype\./;
+
+var isForced = function (feature, detection) {
+  var value = data[normalize(feature)];
+  return value == POLYFILL ? true
+    : value == NATIVE ? false
+    : isCallable(detection) ? fails(detection)
+    : !!detection;
+};
+
+var normalize = isForced.normalize = function (string) {
+  return String(string).replace(replacement, '.').toLowerCase();
+};
+
+var data = isForced.data = {};
+var NATIVE = isForced.NATIVE = 'N';
+var POLYFILL = isForced.POLYFILL = 'P';
+
+module.exports = isForced;
+
+
+/***/ }),
+
+/***/ "95eb":
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__("24fb");
+exports = ___CSS_LOADER_API_IMPORT___(false);
+// Module
+exports.push([module.i, "ul.ztree.zTreeDragUL{margin:0;padding:0;position:absolute;overflow:hidden;background-color:#dedede;border:1px dotted #4fcbf0;border-radius:4px;opacity:.7}.zTreeMask{position:absolute;z-index:10000;opacity:0;background-color:#cfcfcf}", ""]);
+// Exports
+module.exports = exports;
+
+
+/***/ }),
+
+/***/ "99af":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var $ = __webpack_require__("23e7");
+var global = __webpack_require__("da84");
+var fails = __webpack_require__("d039");
+var isArray = __webpack_require__("e8b5");
+var isObject = __webpack_require__("861d");
+var toObject = __webpack_require__("7b0b");
+var lengthOfArrayLike = __webpack_require__("07fa");
+var createProperty = __webpack_require__("8418");
+var arraySpeciesCreate = __webpack_require__("65f0");
+var arrayMethodHasSpeciesSupport = __webpack_require__("1dde");
+var wellKnownSymbol = __webpack_require__("b622");
+var V8_VERSION = __webpack_require__("2d00");
+
+var IS_CONCAT_SPREADABLE = wellKnownSymbol('isConcatSpreadable');
+var MAX_SAFE_INTEGER = 0x1FFFFFFFFFFFFF;
+var MAXIMUM_ALLOWED_INDEX_EXCEEDED = 'Maximum allowed index exceeded';
+var TypeError = global.TypeError;
+
+// We can't use this feature detection in V8 since it causes
+// deoptimization and serious performance degradation
+// https://github.com/zloirock/core-js/issues/679
+var IS_CONCAT_SPREADABLE_SUPPORT = V8_VERSION >= 51 || !fails(function () {
+  var array = [];
+  array[IS_CONCAT_SPREADABLE] = false;
+  return array.concat()[0] !== array;
+});
+
+var SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('concat');
+
+var isConcatSpreadable = function (O) {
+  if (!isObject(O)) return false;
+  var spreadable = O[IS_CONCAT_SPREADABLE];
+  return spreadable !== undefined ? !!spreadable : isArray(O);
+};
+
+var FORCED = !IS_CONCAT_SPREADABLE_SUPPORT || !SPECIES_SUPPORT;
+
+// `Array.prototype.concat` method
+// https://tc39.es/ecma262/#sec-array.prototype.concat
+// with adding support of @@isConcatSpreadable and @@species
+$({ target: 'Array', proto: true, forced: FORCED }, {
+  // eslint-disable-next-line no-unused-vars -- required for `.length`
+  concat: function concat(arg) {
+    var O = toObject(this);
+    var A = arraySpeciesCreate(O, 0);
+    var n = 0;
+    var i, k, length, len, E;
+    for (i = -1, length = arguments.length; i < length; i++) {
+      E = i === -1 ? O : arguments[i];
+      if (isConcatSpreadable(E)) {
+        len = lengthOfArrayLike(E);
+        if (n + len > MAX_SAFE_INTEGER) throw TypeError(MAXIMUM_ALLOWED_INDEX_EXCEEDED);
+        for (k = 0; k < len; k++, n++) if (k in E) createProperty(A, n, E[k]);
+      } else {
+        if (n >= MAX_SAFE_INTEGER) throw TypeError(MAXIMUM_ALLOWED_INDEX_EXCEEDED);
+        createProperty(A, n++, E);
+      }
+    }
+    A.length = n;
+    return A;
+  }
+});
+
+
+/***/ }),
+
+/***/ "9bf2":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+var DESCRIPTORS = __webpack_require__("83ab");
+var IE8_DOM_DEFINE = __webpack_require__("0cfb");
+var anObject = __webpack_require__("825a");
+var toPropertyKey = __webpack_require__("a04b");
+
+var TypeError = global.TypeError;
+// eslint-disable-next-line es/no-object-defineproperty -- safe
+var $defineProperty = Object.defineProperty;
+
+// `Object.defineProperty` method
+// https://tc39.es/ecma262/#sec-object.defineproperty
+exports.f = DESCRIPTORS ? $defineProperty : function defineProperty(O, P, Attributes) {
+  anObject(O);
+  P = toPropertyKey(P);
+  anObject(Attributes);
+  if (IE8_DOM_DEFINE) try {
+    return $defineProperty(O, P, Attributes);
+  } catch (error) { /* empty */ }
+  if ('get' in Attributes || 'set' in Attributes) throw TypeError('Accessors not supported');
+  if ('value' in Attributes) O[P] = Attributes.value;
+  return O;
+};
+
+
+/***/ }),
+
+/***/ "a04b":
+/***/ (function(module, exports, __webpack_require__) {
+
+var toPrimitive = __webpack_require__("c04e");
+var isSymbol = __webpack_require__("d9b5");
+
+// `ToPropertyKey` abstract operation
+// https://tc39.es/ecma262/#sec-topropertykey
+module.exports = function (argument) {
+  var key = toPrimitive(argument, 'string');
+  return isSymbol(key) ? key : key + '';
+};
+
+
+/***/ }),
+
+/***/ "a632":
 /***/ (function(module, exports) {
 
 /*
@@ -14443,658 +15672,421 @@ module.exports = DESCRIPTORS ? function (object, key, value) {
     $$ = tools.$,
     consts = zt.consts;
 })(jQuery);
-/*
- * JQuery zTree excheck
- * v3.5.48
- * http://treejs.cn/
- *
- * Copyright (c) 2010 Hunter.z
- *
- * Licensed same as jquery - MIT License
- * http://www.opensource.org/licenses/mit-license.php
- *
- * Date: 2020-11-21
- */
 
-(function ($) {
-  //default consts of excheck
-  var _consts = {
-      event: {
-        CHECK: "ztree_check"
-      },
-      id: {
-        CHECK: "_check"
-      },
-      checkbox: {
-        STYLE: "checkbox",
-        DEFAULT: "chk",
-        DISABLED: "disable",
-        FALSE: "false",
-        TRUE: "true",
-        FULL: "full",
-        PART: "part",
-        FOCUS: "focus"
-      },
-      radio: {
-        STYLE: "radio",
-        TYPE_ALL: "all",
-        TYPE_LEVEL: "level"
-      }
-    },
-    //default setting of excheck
-    _setting = {
-      check: {
-        enable: false,
-        autoCheckTrigger: false,
-        chkStyle: _consts.checkbox.STYLE,
-        nocheckInherit: false,
-        chkDisabledInherit: false,
-        radioType: _consts.radio.TYPE_LEVEL,
-        chkboxType: {
-          "Y": "ps",
-          "N": "ps"
-        }
-      },
-      data: {
-        key: {
-          checked: "checked"
-        }
-      },
-      callback: {
-        beforeCheck: null,
-        onCheck: null
-      }
-    },
-    //default root of excheck
-    _initRoot = function (setting) {
-      var r = data.getRoot(setting);
-      r.radioCheckedList = [];
-    },
-    //default cache of excheck
-    _initCache = function (treeId) {
-    },
-    //default bind event of excheck
-    _bindEvent = function (setting) {
-      var o = setting.treeObj,
-        c = consts.event;
-      o.bind(c.CHECK, function (event, srcEvent, treeId, node) {
-        event.srcEvent = srcEvent;
-        tools.apply(setting.callback.onCheck, [event, treeId, node]);
-      });
-    },
-    _unbindEvent = function (setting) {
-      var o = setting.treeObj,
-        c = consts.event;
-      o.unbind(c.CHECK);
-    },
-    //default event proxy of excheck
-    _eventProxy = function (e) {
-      var target = e.target,
-        setting = data.getSetting(e.data.treeId),
-        tId = "", node = null,
-        nodeEventType = "", treeEventType = "",
-        nodeEventCallback = null, treeEventCallback = null;
+/***/ }),
 
-      if (tools.eqs(e.type, "mouseover")) {
-        if (setting.check.enable && tools.eqs(target.tagName, "span") && target.getAttribute("treeNode" + consts.id.CHECK) !== null) {
-          tId = tools.getNodeMainDom(target).id;
-          nodeEventType = "mouseoverCheck";
-        }
-      } else if (tools.eqs(e.type, "mouseout")) {
-        if (setting.check.enable && tools.eqs(target.tagName, "span") && target.getAttribute("treeNode" + consts.id.CHECK) !== null) {
-          tId = tools.getNodeMainDom(target).id;
-          nodeEventType = "mouseoutCheck";
-        }
-      } else if (tools.eqs(e.type, "click")) {
-        if (setting.check.enable && tools.eqs(target.tagName, "span") && target.getAttribute("treeNode" + consts.id.CHECK) !== null) {
-          tId = tools.getNodeMainDom(target).id;
-          nodeEventType = "checkNode";
-        }
-      }
-      if (tId.length > 0) {
-        node = data.getNodeCache(setting, tId);
-        switch (nodeEventType) {
-          case "checkNode" :
-            nodeEventCallback = _handler.onCheckNode;
-            break;
-          case "mouseoverCheck" :
-            nodeEventCallback = _handler.onMouseoverCheck;
-            break;
-          case "mouseoutCheck" :
-            nodeEventCallback = _handler.onMouseoutCheck;
-            break;
-        }
-      }
-      var proxyResult = {
-        stop: nodeEventType === "checkNode",
-        node: node,
-        nodeEventType: nodeEventType,
-        nodeEventCallback: nodeEventCallback,
-        treeEventType: treeEventType,
-        treeEventCallback: treeEventCallback
-      };
-      return proxyResult
-    },
-    //default init node of excheck
-    _initNode = function (setting, level, n, parentNode, isFirstNode, isLastNode, openFlag) {
-      if (!n) return;
-      var checked = data.nodeChecked(setting, n);
-      n.checkedOld = checked;
-      if (typeof n.nocheck == "string") n.nocheck = tools.eqs(n.nocheck, "true");
-      n.nocheck = !!n.nocheck || (setting.check.nocheckInherit && parentNode && !!parentNode.nocheck);
-      if (typeof n.chkDisabled == "string") n.chkDisabled = tools.eqs(n.chkDisabled, "true");
-      n.chkDisabled = !!n.chkDisabled || (setting.check.chkDisabledInherit && parentNode && !!parentNode.chkDisabled);
-      if (typeof n.halfCheck == "string") n.halfCheck = tools.eqs(n.halfCheck, "true");
-      n.halfCheck = !!n.halfCheck;
-      n.check_Child_State = -1;
-      n.check_Focus = false;
-      n.getCheckStatus = function () {
-        return data.getCheckStatus(setting, n);
-      };
+/***/ "ab17":
+/***/ (function(module, exports, __webpack_require__) {
 
-      if (setting.check.chkStyle == consts.radio.STYLE && setting.check.radioType == consts.radio.TYPE_ALL && checked) {
-        var r = data.getRoot(setting);
-        r.radioCheckedList.push(n);
-      }
-    },
-    //add dom for check
-    _beforeA = function (setting, node, html) {
-      if (setting.check.enable) {
-        data.makeChkFlag(setting, node);
-        html.push("<span ID='", node.tId, consts.id.CHECK, "' class='", view.makeChkClass(setting, node), "' treeNode", consts.id.CHECK, (node.nocheck === true ? " style='display:none;'" : ""), "></span>");
-      }
-    },
-    //update zTreeObj, add method of check
-    _zTreeTools = function (setting, zTreeTools) {
-      zTreeTools.checkNode = function (node, checked, checkTypeFlag, callbackFlag) {
-        var nodeChecked = data.nodeChecked(setting, node);
-        if (node.chkDisabled === true) return;
-        if (checked !== true && checked !== false) {
-          checked = !nodeChecked;
-        }
-        callbackFlag = !!callbackFlag;
+// style-loader: Adds some css to the DOM by adding a <style> tag
 
-        if (nodeChecked === checked && !checkTypeFlag) {
-          return;
-        } else if (callbackFlag && tools.apply(this.setting.callback.beforeCheck, [this.setting.treeId, node], true) == false) {
-          return;
-        }
-        if (tools.uCanDo(this.setting) && this.setting.check.enable && node.nocheck !== true) {
-          data.nodeChecked(setting, node, checked);
-          var checkObj = $$(node, consts.id.CHECK, this.setting);
-          if (checkTypeFlag || this.setting.check.chkStyle === consts.radio.STYLE) view.checkNodeRelation(this.setting, node);
-          view.setChkClass(this.setting, checkObj, node);
-          view.repairParentChkClassWithSelf(this.setting, node);
-          if (callbackFlag) {
-            this.setting.treeObj.trigger(consts.event.CHECK, [null, this.setting.treeId, node]);
-          }
-        }
-      }
+// load the styles
+var content = __webpack_require__("95eb");
+if(content.__esModule) content = content.default;
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var add = __webpack_require__("499e").default
+var update = add("6c9c26d5", content, true, {"sourceMap":false,"shadowMode":false});
 
-      zTreeTools.checkAllNodes = function (checked) {
-        view.repairAllChk(this.setting, !!checked);
-      }
+/***/ }),
 
-      zTreeTools.getCheckedNodes = function (checked) {
-        checked = (checked !== false);
-        var children = data.nodeChildren(setting, data.getRoot(this.setting));
-        return data.getTreeCheckedNodes(this.setting, children, checked);
-      }
+/***/ "b622":
+/***/ (function(module, exports, __webpack_require__) {
 
-      zTreeTools.getChangeCheckedNodes = function () {
-        var children = data.nodeChildren(setting, data.getRoot(this.setting));
-        return data.getTreeChangeCheckedNodes(this.setting, children);
-      }
+var global = __webpack_require__("da84");
+var shared = __webpack_require__("5692");
+var hasOwn = __webpack_require__("1a2d");
+var uid = __webpack_require__("90e3");
+var NATIVE_SYMBOL = __webpack_require__("4930");
+var USE_SYMBOL_AS_UID = __webpack_require__("fdbf");
 
-      zTreeTools.setChkDisabled = function (node, disabled, inheritParent, inheritChildren) {
-        disabled = !!disabled;
-        inheritParent = !!inheritParent;
-        inheritChildren = !!inheritChildren;
-        view.repairSonChkDisabled(this.setting, node, disabled, inheritChildren);
-        view.repairParentChkDisabled(this.setting, node.getParentNode(), disabled, inheritParent);
-      }
+var WellKnownSymbolsStore = shared('wks');
+var Symbol = global.Symbol;
+var symbolFor = Symbol && Symbol['for'];
+var createWellKnownSymbol = USE_SYMBOL_AS_UID ? Symbol : Symbol && Symbol.withoutSetter || uid;
 
-      var _updateNode = zTreeTools.updateNode;
-      zTreeTools.updateNode = function (node, checkTypeFlag) {
-        if (_updateNode) _updateNode.apply(zTreeTools, arguments);
-        if (!node || !this.setting.check.enable) return;
-        var nObj = $$(node, this.setting);
-        if (nObj.get(0) && tools.uCanDo(this.setting)) {
-          var checkObj = $$(node, consts.id.CHECK, this.setting);
-          if (checkTypeFlag == true || this.setting.check.chkStyle === consts.radio.STYLE) view.checkNodeRelation(this.setting, node);
-          view.setChkClass(this.setting, checkObj, node);
-          view.repairParentChkClassWithSelf(this.setting, node);
-        }
-      }
-    },
-    //method of operate data
-    _data = {
-      getRadioCheckedList: function (setting) {
-        var checkedList = data.getRoot(setting).radioCheckedList;
-        for (var i = 0, j = checkedList.length; i < j; i++) {
-          if (!data.getNodeCache(setting, checkedList[i].tId)) {
-            checkedList.splice(i, 1);
-            i--;
-            j--;
-          }
-        }
-        return checkedList;
-      },
-      getCheckStatus: function (setting, node) {
-        if (!setting.check.enable || node.nocheck || node.chkDisabled) return null;
-        var checked = data.nodeChecked(setting, node),
-          r = {
-            checked: checked,
-            half: node.halfCheck ? node.halfCheck : (setting.check.chkStyle == consts.radio.STYLE ? (node.check_Child_State === 2) : (checked ? (node.check_Child_State > -1 && node.check_Child_State < 2) : (node.check_Child_State > 0)))
-          };
-        return r;
-      },
-      getTreeCheckedNodes: function (setting, nodes, checked, results) {
-        if (!nodes) return [];
-        var onlyOne = (checked && setting.check.chkStyle == consts.radio.STYLE && setting.check.radioType == consts.radio.TYPE_ALL);
-        results = !results ? [] : results;
-        for (var i = 0, l = nodes.length; i < l; i++) {
-          var node = nodes[i];
-          var children = data.nodeChildren(setting, node);
-          var nodeChecked = data.nodeChecked(setting, node);
-          if (node.nocheck !== true && node.chkDisabled !== true && nodeChecked == checked) {
-            results.push(node);
-            if (onlyOne) {
-              break;
-            }
-          }
-          data.getTreeCheckedNodes(setting, children, checked, results);
-          if (onlyOne && results.length > 0) {
-            break;
-          }
-        }
-        return results;
-      },
-      getTreeChangeCheckedNodes: function (setting, nodes, results) {
-        if (!nodes) return [];
-        results = !results ? [] : results;
-        for (var i = 0, l = nodes.length; i < l; i++) {
-          var node = nodes[i];
-          var children = data.nodeChildren(setting, node);
-          var nodeChecked = data.nodeChecked(setting, node);
-          if (node.nocheck !== true && node.chkDisabled !== true && nodeChecked != node.checkedOld) {
-            results.push(node);
-          }
-          data.getTreeChangeCheckedNodes(setting, children, results);
-        }
-        return results;
-      },
-      makeChkFlag: function (setting, node) {
-        if (!node) return;
-        var chkFlag = -1;
-        var children = data.nodeChildren(setting, node);
-        if (children) {
-          for (var i = 0, l = children.length; i < l; i++) {
-            var cNode = children[i];
-            var nodeChecked = data.nodeChecked(setting, cNode);
-            var tmp = -1;
-            if (setting.check.chkStyle == consts.radio.STYLE) {
-              if (cNode.nocheck === true || cNode.chkDisabled === true) {
-                tmp = cNode.check_Child_State;
-              } else if (cNode.halfCheck === true) {
-                tmp = 2;
-              } else if (nodeChecked) {
-                tmp = 2;
-              } else {
-                tmp = cNode.check_Child_State > 0 ? 2 : 0;
-              }
-              if (tmp == 2) {
-                chkFlag = 2;
-                break;
-              } else if (tmp == 0) {
-                chkFlag = 0;
-              }
-            } else if (setting.check.chkStyle == consts.checkbox.STYLE) {
-              if (cNode.nocheck === true || cNode.chkDisabled === true) {
-                tmp = cNode.check_Child_State;
-              } else if (cNode.halfCheck === true) {
-                tmp = 1;
-              } else if (nodeChecked) {
-                tmp = (cNode.check_Child_State === -1 || cNode.check_Child_State === 2) ? 2 : 1;
-              } else {
-                tmp = (cNode.check_Child_State > 0) ? 1 : 0;
-              }
-              if (tmp === 1) {
-                chkFlag = 1;
-                break;
-              } else if (tmp === 2 && chkFlag > -1 && i > 0 && tmp !== chkFlag) {
-                chkFlag = 1;
-                break;
-              } else if (chkFlag === 2 && tmp > -1 && tmp < 2) {
-                chkFlag = 1;
-                break;
-              } else if (tmp > -1) {
-                chkFlag = tmp;
-              }
-            }
-          }
-        }
-        node.check_Child_State = chkFlag;
-      }
-    },
-    //method of event proxy
-    _event = {},
-    //method of event handler
-    _handler = {
-      onCheckNode: function (event, node) {
-        if (node.chkDisabled === true) return false;
-        var setting = data.getSetting(event.data.treeId);
-        if (tools.apply(setting.callback.beforeCheck, [setting.treeId, node], true) == false) return true;
-        var nodeChecked = data.nodeChecked(setting, node);
-        data.nodeChecked(setting, node, !nodeChecked);
-        view.checkNodeRelation(setting, node);
-        var checkObj = $$(node, consts.id.CHECK, setting);
-        view.setChkClass(setting, checkObj, node);
-        view.repairParentChkClassWithSelf(setting, node);
-        setting.treeObj.trigger(consts.event.CHECK, [event, setting.treeId, node]);
-        return true;
-      },
-      onMouseoverCheck: function (event, node) {
-        if (node.chkDisabled === true) return false;
-        var setting = data.getSetting(event.data.treeId),
-          checkObj = $$(node, consts.id.CHECK, setting);
-        node.check_Focus = true;
-        view.setChkClass(setting, checkObj, node);
-        return true;
-      },
-      onMouseoutCheck: function (event, node) {
-        if (node.chkDisabled === true) return false;
-        var setting = data.getSetting(event.data.treeId),
-          checkObj = $$(node, consts.id.CHECK, setting);
-        node.check_Focus = false;
-        view.setChkClass(setting, checkObj, node);
-        return true;
-      }
-    },
-    //method of tools for zTree
-    _tools = {},
-    //method of operate ztree dom
-    _view = {
-      checkNodeRelation: function (setting, node) {
-        var pNode, i, l,
-          r = consts.radio;
-        var nodeChecked = data.nodeChecked(setting, node);
-        if (setting.check.chkStyle == r.STYLE) {
-          var checkedList = data.getRadioCheckedList(setting);
-          if (nodeChecked) {
-            if (setting.check.radioType == r.TYPE_ALL) {
-              for (i = checkedList.length - 1; i >= 0; i--) {
-                pNode = checkedList[i];
-                var pNodeChecked = data.nodeChecked(setting, pNode);
-                if (pNodeChecked && pNode != node) {
-                  data.nodeChecked(setting, pNode, false);
-                  checkedList.splice(i, 1);
-
-                  view.setChkClass(setting, $$(pNode, consts.id.CHECK, setting), pNode);
-                  if (pNode.parentTId != node.parentTId) {
-                    view.repairParentChkClassWithSelf(setting, pNode);
-                  }
-                }
-              }
-              checkedList.push(node);
-            } else {
-              var parentNode = (node.parentTId) ? node.getParentNode() : data.getRoot(setting);
-              var children = data.nodeChildren(setting, parentNode);
-              for (i = 0, l = children.length; i < l; i++) {
-                pNode = children[i];
-                var pNodeChecked = data.nodeChecked(setting, pNode);
-                if (pNodeChecked && pNode != node) {
-                  data.nodeChecked(setting, pNode, false);
-                  view.setChkClass(setting, $$(pNode, consts.id.CHECK, setting), pNode);
-                }
-              }
-            }
-          } else if (setting.check.radioType == r.TYPE_ALL) {
-            for (i = 0, l = checkedList.length; i < l; i++) {
-              if (node == checkedList[i]) {
-                checkedList.splice(i, 1);
-                break;
-              }
-            }
-          }
-
-        } else {
-          var children = data.nodeChildren(setting, node);
-          if (nodeChecked && (!children || children.length == 0 || setting.check.chkboxType.Y.indexOf("s") > -1)) {
-            view.setSonNodeCheckBox(setting, node, true);
-          }
-          if (!nodeChecked && (!children || children.length == 0 || setting.check.chkboxType.N.indexOf("s") > -1)) {
-            view.setSonNodeCheckBox(setting, node, false);
-          }
-          if (nodeChecked && setting.check.chkboxType.Y.indexOf("p") > -1) {
-            view.setParentNodeCheckBox(setting, node, true);
-          }
-          if (!nodeChecked && setting.check.chkboxType.N.indexOf("p") > -1) {
-            view.setParentNodeCheckBox(setting, node, false);
-          }
-        }
-      },
-      makeChkClass: function (setting, node) {
-        var c = consts.checkbox, r = consts.radio,
-          fullStyle = "";
-        var nodeChecked = data.nodeChecked(setting, node);
-        if (node.chkDisabled === true) {
-          fullStyle = c.DISABLED;
-        } else if (node.halfCheck) {
-          fullStyle = c.PART;
-        } else if (setting.check.chkStyle == r.STYLE) {
-          fullStyle = (node.check_Child_State < 1) ? c.FULL : c.PART;
-        } else {
-          fullStyle = nodeChecked ? ((node.check_Child_State === 2 || node.check_Child_State === -1) ? c.FULL : c.PART) : ((node.check_Child_State < 1) ? c.FULL : c.PART);
-        }
-        var chkName = setting.check.chkStyle + "_" + (nodeChecked ? c.TRUE : c.FALSE) + "_" + fullStyle;
-        chkName = (node.check_Focus && node.chkDisabled !== true) ? chkName + "_" + c.FOCUS : chkName;
-        return consts.className.BUTTON + " " + c.DEFAULT + " " + chkName;
-      },
-      repairAllChk: function (setting, checked) {
-        if (setting.check.enable && setting.check.chkStyle === consts.checkbox.STYLE) {
-          var root = data.getRoot(setting);
-          var children = data.nodeChildren(setting, root);
-          for (var i = 0, l = children.length; i < l; i++) {
-            var node = children[i];
-            if (node.nocheck !== true && node.chkDisabled !== true) {
-              data.nodeChecked(setting, node, checked);
-            }
-            view.setSonNodeCheckBox(setting, node, checked);
-          }
-        }
-      },
-      repairChkClass: function (setting, node) {
-        if (!node) return;
-        data.makeChkFlag(setting, node);
-        if (node.nocheck !== true) {
-          var checkObj = $$(node, consts.id.CHECK, setting);
-          view.setChkClass(setting, checkObj, node);
-        }
-      },
-      repairParentChkClass: function (setting, node) {
-        if (!node || !node.parentTId) return;
-        var pNode = node.getParentNode();
-        view.repairChkClass(setting, pNode);
-        view.repairParentChkClass(setting, pNode);
-      },
-      repairParentChkClassWithSelf: function (setting, node) {
-        if (!node) return;
-        var children = data.nodeChildren(setting, node);
-        if (children && children.length > 0) {
-          view.repairParentChkClass(setting, children[0]);
-        } else {
-          view.repairParentChkClass(setting, node);
-        }
-      },
-      repairSonChkDisabled: function (setting, node, chkDisabled, inherit) {
-        if (!node) return;
-        if (node.chkDisabled != chkDisabled) {
-          node.chkDisabled = chkDisabled;
-        }
-        view.repairChkClass(setting, node);
-        var children = data.nodeChildren(setting, node);
-        if (children && inherit) {
-          for (var i = 0, l = children.length; i < l; i++) {
-            var sNode = children[i];
-            view.repairSonChkDisabled(setting, sNode, chkDisabled, inherit);
-          }
-        }
-      },
-      repairParentChkDisabled: function (setting, node, chkDisabled, inherit) {
-        if (!node) return;
-        if (node.chkDisabled != chkDisabled && inherit) {
-          node.chkDisabled = chkDisabled;
-        }
-        view.repairChkClass(setting, node);
-        view.repairParentChkDisabled(setting, node.getParentNode(), chkDisabled, inherit);
-      },
-      setChkClass: function (setting, obj, node) {
-        if (!obj) return;
-        if (node.nocheck === true) {
-          obj.hide();
-        } else {
-          obj.show();
-        }
-        obj.attr('class', view.makeChkClass(setting, node));
-      },
-      setParentNodeCheckBox: function (setting, node, value, srcNode) {
-        var checkObj = $$(node, consts.id.CHECK, setting);
-        if (!srcNode) srcNode = node;
-        data.makeChkFlag(setting, node);
-        if (node.nocheck !== true && node.chkDisabled !== true) {
-          data.nodeChecked(setting, node, value);
-          view.setChkClass(setting, checkObj, node);
-          if (setting.check.autoCheckTrigger && node != srcNode) {
-            setting.treeObj.trigger(consts.event.CHECK, [null, setting.treeId, node]);
-          }
-        }
-        if (node.parentTId) {
-          var pSign = true;
-          if (!value) {
-            var pNodes = data.nodeChildren(setting, node.getParentNode());
-            for (var i = 0, l = pNodes.length; i < l; i++) {
-              var pNode = pNodes[i];
-              var nodeChecked = data.nodeChecked(setting, pNode);
-              if ((pNode.nocheck !== true && pNode.chkDisabled !== true && nodeChecked)
-                || ((pNode.nocheck === true || pNode.chkDisabled === true) && pNode.check_Child_State > 0)) {
-                pSign = false;
-                break;
-              }
-            }
-          }
-          if (pSign) {
-            view.setParentNodeCheckBox(setting, node.getParentNode(), value, srcNode);
-          }
-        }
-      },
-      setSonNodeCheckBox: function (setting, node, value, srcNode) {
-        if (!node) return;
-        var checkObj = $$(node, consts.id.CHECK, setting);
-        if (!srcNode) srcNode = node;
-
-        var hasDisable = false;
-        var children = data.nodeChildren(setting, node);
-        if (children) {
-          for (var i = 0, l = children.length; i < l; i++) {
-            var sNode = children[i];
-            view.setSonNodeCheckBox(setting, sNode, value, srcNode);
-            if (sNode.chkDisabled === true) hasDisable = true;
-          }
-        }
-
-        if (node != data.getRoot(setting) && node.chkDisabled !== true) {
-          if (hasDisable && node.nocheck !== true) {
-            data.makeChkFlag(setting, node);
-          }
-          if (node.nocheck !== true && node.chkDisabled !== true) {
-            data.nodeChecked(setting, node, value);
-            if (!hasDisable) node.check_Child_State = (children && children.length > 0) ? (value ? 2 : 0) : -1;
-          } else {
-            node.check_Child_State = -1;
-          }
-          view.setChkClass(setting, checkObj, node);
-          if (setting.check.autoCheckTrigger && node != srcNode && node.nocheck !== true && node.chkDisabled !== true) {
-            setting.treeObj.trigger(consts.event.CHECK, [null, setting.treeId, node]);
-          }
-        }
-
-      }
-    },
-
-    _z = {
-      tools: _tools,
-      view: _view,
-      event: _event,
-      data: _data
-    };
-  $.extend(true, $.fn.zTree.consts, _consts);
-  $.extend(true, $.fn.zTree._z, _z);
-
-  var zt = $.fn.zTree,
-    tools = zt._z.tools,
-    consts = zt.consts,
-    view = zt._z.view,
-    data = zt._z.data,
-    event = zt._z.event,
-    $$ = tools.$;
-
-  data.nodeChecked = function (setting, node, newChecked) {
-    if (!node) {
-      return false;
-    }
-    var key = setting.data.key.checked;
-    if (typeof newChecked !== 'undefined') {
-      if (typeof newChecked === "string") {
-        newChecked = tools.eqs(newChecked, "true");
-      }
-      newChecked = !!newChecked;
-      node[key] = newChecked;
-    } else if (typeof node[key] == "string"){
-      node[key] = tools.eqs(node[key], "true");
+module.exports = function (name) {
+  if (!hasOwn(WellKnownSymbolsStore, name) || !(NATIVE_SYMBOL || typeof WellKnownSymbolsStore[name] == 'string')) {
+    var description = 'Symbol.' + name;
+    if (NATIVE_SYMBOL && hasOwn(Symbol, name)) {
+      WellKnownSymbolsStore[name] = Symbol[name];
+    } else if (USE_SYMBOL_AS_UID && symbolFor) {
+      WellKnownSymbolsStore[name] = symbolFor(description);
     } else {
-      node[key] = !!node[key];
+      WellKnownSymbolsStore[name] = createWellKnownSymbol(description);
     }
-    return node[key];
+  } return WellKnownSymbolsStore[name];
+};
+
+
+/***/ }),
+
+/***/ "bae4":
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__("4273");
+if(content.__esModule) content = content.default;
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var add = __webpack_require__("499e").default
+var update = add("7fa80e31", content, true, {"sourceMap":false,"shadowMode":false});
+
+/***/ }),
+
+/***/ "c04e":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+var call = __webpack_require__("c65b");
+var isObject = __webpack_require__("861d");
+var isSymbol = __webpack_require__("d9b5");
+var getMethod = __webpack_require__("dc4a");
+var ordinaryToPrimitive = __webpack_require__("485a");
+var wellKnownSymbol = __webpack_require__("b622");
+
+var TypeError = global.TypeError;
+var TO_PRIMITIVE = wellKnownSymbol('toPrimitive');
+
+// `ToPrimitive` abstract operation
+// https://tc39.es/ecma262/#sec-toprimitive
+module.exports = function (input, pref) {
+  if (!isObject(input) || isSymbol(input)) return input;
+  var exoticToPrim = getMethod(input, TO_PRIMITIVE);
+  var result;
+  if (exoticToPrim) {
+    if (pref === undefined) pref = 'default';
+    result = call(exoticToPrim, input, pref);
+    if (!isObject(result) || isSymbol(result)) return result;
+    throw TypeError("Can't convert object to primitive value");
+  }
+  if (pref === undefined) pref = 'number';
+  return ordinaryToPrimitive(input, pref);
+};
+
+
+/***/ }),
+
+/***/ "c430":
+/***/ (function(module, exports) {
+
+module.exports = false;
+
+
+/***/ }),
+
+/***/ "c65b":
+/***/ (function(module, exports) {
+
+var call = Function.prototype.call;
+
+module.exports = call.bind ? call.bind(call) : function () {
+  return call.apply(call, arguments);
+};
+
+
+/***/ }),
+
+/***/ "c6b6":
+/***/ (function(module, exports, __webpack_require__) {
+
+var uncurryThis = __webpack_require__("e330");
+
+var toString = uncurryThis({}.toString);
+var stringSlice = uncurryThis(''.slice);
+
+module.exports = function (it) {
+  return stringSlice(toString(it), 8, -1);
+};
+
+
+/***/ }),
+
+/***/ "c6cd":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+var setGlobal = __webpack_require__("ce4e");
+
+var SHARED = '__core-js_shared__';
+var store = global[SHARED] || setGlobal(SHARED, {});
+
+module.exports = store;
+
+
+/***/ }),
+
+/***/ "c8ba":
+/***/ (function(module, exports) {
+
+var g;
+
+// This works in non-strict mode
+g = (function() {
+	return this;
+})();
+
+try {
+	// This works if eval is allowed (see CSP)
+	g = g || new Function("return this")();
+} catch (e) {
+	// This works if the window reference is available
+	if (typeof window === "object") g = window;
+}
+
+// g can still be undefined, but nothing to do about it...
+// We return undefined, instead of nothing here, so it's
+// easier to handle this case. if(!global) { ...}
+
+module.exports = g;
+
+
+/***/ }),
+
+/***/ "ca84":
+/***/ (function(module, exports, __webpack_require__) {
+
+var uncurryThis = __webpack_require__("e330");
+var hasOwn = __webpack_require__("1a2d");
+var toIndexedObject = __webpack_require__("fc6a");
+var indexOf = __webpack_require__("4d64").indexOf;
+var hiddenKeys = __webpack_require__("d012");
+
+var push = uncurryThis([].push);
+
+module.exports = function (object, names) {
+  var O = toIndexedObject(object);
+  var i = 0;
+  var result = [];
+  var key;
+  for (key in O) !hasOwn(hiddenKeys, key) && hasOwn(O, key) && push(result, key);
+  // Don't enum bug & hidden keys
+  while (names.length > i) if (hasOwn(O, key = names[i++])) {
+    ~indexOf(result, key) || push(result, key);
+  }
+  return result;
+};
+
+
+/***/ }),
+
+/***/ "cc12":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+var isObject = __webpack_require__("861d");
+
+var document = global.document;
+// typeof document.createElement is 'object' in old IE
+var EXISTS = isObject(document) && isObject(document.createElement);
+
+module.exports = function (it) {
+  return EXISTS ? document.createElement(it) : {};
+};
+
+
+/***/ }),
+
+/***/ "ce4e":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+
+// eslint-disable-next-line es/no-object-defineproperty -- safe
+var defineProperty = Object.defineProperty;
+
+module.exports = function (key, value) {
+  try {
+    defineProperty(global, key, { value: value, configurable: true, writable: true });
+  } catch (error) {
+    global[key] = value;
+  } return value;
+};
+
+
+/***/ }),
+
+/***/ "d012":
+/***/ (function(module, exports) {
+
+module.exports = {};
+
+
+/***/ }),
+
+/***/ "d039":
+/***/ (function(module, exports) {
+
+module.exports = function (exec) {
+  try {
+    return !!exec();
+  } catch (error) {
+    return true;
+  }
+};
+
+
+/***/ }),
+
+/***/ "d066":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+var isCallable = __webpack_require__("1626");
+
+var aFunction = function (argument) {
+  return isCallable(argument) ? argument : undefined;
+};
+
+module.exports = function (namespace, method) {
+  return arguments.length < 2 ? aFunction(global[namespace]) : global[namespace] && global[namespace][method];
+};
+
+
+/***/ }),
+
+/***/ "d1e7":
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var $propertyIsEnumerable = {}.propertyIsEnumerable;
+// eslint-disable-next-line es/no-object-getownpropertydescriptor -- safe
+var getOwnPropertyDescriptor = Object.getOwnPropertyDescriptor;
+
+// Nashorn ~ JDK8 bug
+var NASHORN_BUG = getOwnPropertyDescriptor && !$propertyIsEnumerable.call({ 1: 2 }, 1);
+
+// `Object.prototype.propertyIsEnumerable` method implementation
+// https://tc39.es/ecma262/#sec-object.prototype.propertyisenumerable
+exports.f = NASHORN_BUG ? function propertyIsEnumerable(V) {
+  var descriptor = getOwnPropertyDescriptor(this, V);
+  return !!descriptor && descriptor.enumerable;
+} : $propertyIsEnumerable;
+
+
+/***/ }),
+
+/***/ "d9b5":
+/***/ (function(module, exports, __webpack_require__) {
+
+var global = __webpack_require__("da84");
+var getBuiltIn = __webpack_require__("d066");
+var isCallable = __webpack_require__("1626");
+var isPrototypeOf = __webpack_require__("3a9b");
+var USE_SYMBOL_AS_UID = __webpack_require__("fdbf");
+
+var Object = global.Object;
+
+module.exports = USE_SYMBOL_AS_UID ? function (it) {
+  return typeof it == 'symbol';
+} : function (it) {
+  var $Symbol = getBuiltIn('Symbol');
+  return isCallable($Symbol) && isPrototypeOf($Symbol.prototype, Object(it));
+};
+
+
+/***/ }),
+
+/***/ "da84":
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(global) {var check = function (it) {
+  return it && it.Math == Math && it;
+};
+
+// https://github.com/zloirock/core-js/issues/86#issuecomment-115759028
+module.exports =
+  // eslint-disable-next-line es/no-global-this -- safe
+  check(typeof globalThis == 'object' && globalThis) ||
+  check(typeof window == 'object' && window) ||
+  // eslint-disable-next-line no-restricted-globals -- safe
+  check(typeof self == 'object' && self) ||
+  check(typeof global == 'object' && global) ||
+  // eslint-disable-next-line no-new-func -- fallback
+  (function () { return this; })() || Function('return this')();
+
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__("c8ba")))
+
+/***/ }),
+
+/***/ "dc4a":
+/***/ (function(module, exports, __webpack_require__) {
+
+var aCallable = __webpack_require__("59ed");
+
+// `GetMethod` abstract operation
+// https://tc39.es/ecma262/#sec-getmethod
+module.exports = function (V, P) {
+  var func = V[P];
+  return func == null ? undefined : aCallable(func);
+};
+
+
+/***/ }),
+
+/***/ "e330":
+/***/ (function(module, exports) {
+
+var FunctionPrototype = Function.prototype;
+var bind = FunctionPrototype.bind;
+var call = FunctionPrototype.call;
+var callBind = bind && bind.bind(call);
+
+module.exports = bind ? function (fn) {
+  return fn && callBind(call, fn);
+} : function (fn) {
+  return fn && function () {
+    return call.apply(fn, arguments);
   };
+};
 
-  data.exSetting(_setting);
-  data.addInitBind(_bindEvent);
-  data.addInitUnBind(_unbindEvent);
-  data.addInitCache(_initCache);
-  data.addInitNode(_initNode);
-  data.addInitProxy(_eventProxy, true);
-  data.addInitRoot(_initRoot);
-  data.addBeforeA(_beforeA);
-  data.addZTreeTools(_zTreeTools);
 
-  var _createNodes = view.createNodes;
-  view.createNodes = function (setting, level, nodes, parentNode, index) {
-    if (_createNodes) _createNodes.apply(view, arguments);
-    if (!nodes) return;
-    view.repairParentChkClassWithSelf(setting, parentNode);
-  }
-  var _removeNode = view.removeNode;
-  view.removeNode = function (setting, node) {
-    var parentNode = node.getParentNode();
-    if (_removeNode) _removeNode.apply(view, arguments);
-    if (!node || !parentNode) return;
-    view.repairChkClass(setting, parentNode);
-    view.repairParentChkClass(setting, parentNode);
-  }
+/***/ }),
 
-  var _appendNodes = view.appendNodes;
-  view.appendNodes = function (setting, level, nodes, parentNode, index, initFlag, openFlag) {
-    var html = "";
-    if (_appendNodes) {
-      html = _appendNodes.apply(view, arguments);
-    }
-    if (parentNode) {
-      data.makeChkFlag(setting, parentNode);
-    }
-    return html;
+/***/ "e893":
+/***/ (function(module, exports, __webpack_require__) {
+
+var hasOwn = __webpack_require__("1a2d");
+var ownKeys = __webpack_require__("56ef");
+var getOwnPropertyDescriptorModule = __webpack_require__("06cf");
+var definePropertyModule = __webpack_require__("9bf2");
+
+module.exports = function (target, source) {
+  var keys = ownKeys(source);
+  var defineProperty = definePropertyModule.f;
+  var getOwnPropertyDescriptor = getOwnPropertyDescriptorModule.f;
+  for (var i = 0; i < keys.length; i++) {
+    var key = keys[i];
+    if (!hasOwn(target, key)) defineProperty(target, key, getOwnPropertyDescriptor(source, key));
   }
-})(jQuery);
+};
+
+
+/***/ }),
+
+/***/ "e8b5":
+/***/ (function(module, exports, __webpack_require__) {
+
+var classof = __webpack_require__("c6b6");
+
+// `IsArray` abstract operation
+// https://tc39.es/ecma262/#sec-isarray
+// eslint-disable-next-line es/no-array-isarray -- safe
+module.exports = Array.isArray || function isArray(argument) {
+  return classof(argument) == 'Array';
+};
+
+
+/***/ }),
+
+/***/ "effb":
+/***/ (function(module, exports) {
+
 /*
  * JQuery zTree exedit
  * v3.5.48
@@ -16305,575 +17297,6 @@ module.exports = DESCRIPTORS ? function (object, key, value) {
 
 /***/ }),
 
-/***/ "94ca":
-/***/ (function(module, exports, __webpack_require__) {
-
-var fails = __webpack_require__("d039");
-var isCallable = __webpack_require__("1626");
-
-var replacement = /#|\.prototype\./;
-
-var isForced = function (feature, detection) {
-  var value = data[normalize(feature)];
-  return value == POLYFILL ? true
-    : value == NATIVE ? false
-    : isCallable(detection) ? fails(detection)
-    : !!detection;
-};
-
-var normalize = isForced.normalize = function (string) {
-  return String(string).replace(replacement, '.').toLowerCase();
-};
-
-var data = isForced.data = {};
-var NATIVE = isForced.NATIVE = 'N';
-var POLYFILL = isForced.POLYFILL = 'P';
-
-module.exports = isForced;
-
-
-/***/ }),
-
-/***/ "95eb":
-/***/ (function(module, exports, __webpack_require__) {
-
-// Imports
-var ___CSS_LOADER_API_IMPORT___ = __webpack_require__("24fb");
-exports = ___CSS_LOADER_API_IMPORT___(false);
-// Module
-exports.push([module.i, "ul.ztree.zTreeDragUL{margin:0;padding:0;position:absolute;overflow:hidden;background-color:#dedede;border:1px dotted #4fcbf0;border-radius:4px;opacity:.7}.zTreeMask{position:absolute;z-index:10000;opacity:0;background-color:#cfcfcf}", ""]);
-// Exports
-module.exports = exports;
-
-
-/***/ }),
-
-/***/ "99af":
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var $ = __webpack_require__("23e7");
-var global = __webpack_require__("da84");
-var fails = __webpack_require__("d039");
-var isArray = __webpack_require__("e8b5");
-var isObject = __webpack_require__("861d");
-var toObject = __webpack_require__("7b0b");
-var lengthOfArrayLike = __webpack_require__("07fa");
-var createProperty = __webpack_require__("8418");
-var arraySpeciesCreate = __webpack_require__("65f0");
-var arrayMethodHasSpeciesSupport = __webpack_require__("1dde");
-var wellKnownSymbol = __webpack_require__("b622");
-var V8_VERSION = __webpack_require__("2d00");
-
-var IS_CONCAT_SPREADABLE = wellKnownSymbol('isConcatSpreadable');
-var MAX_SAFE_INTEGER = 0x1FFFFFFFFFFFFF;
-var MAXIMUM_ALLOWED_INDEX_EXCEEDED = 'Maximum allowed index exceeded';
-var TypeError = global.TypeError;
-
-// We can't use this feature detection in V8 since it causes
-// deoptimization and serious performance degradation
-// https://github.com/zloirock/core-js/issues/679
-var IS_CONCAT_SPREADABLE_SUPPORT = V8_VERSION >= 51 || !fails(function () {
-  var array = [];
-  array[IS_CONCAT_SPREADABLE] = false;
-  return array.concat()[0] !== array;
-});
-
-var SPECIES_SUPPORT = arrayMethodHasSpeciesSupport('concat');
-
-var isConcatSpreadable = function (O) {
-  if (!isObject(O)) return false;
-  var spreadable = O[IS_CONCAT_SPREADABLE];
-  return spreadable !== undefined ? !!spreadable : isArray(O);
-};
-
-var FORCED = !IS_CONCAT_SPREADABLE_SUPPORT || !SPECIES_SUPPORT;
-
-// `Array.prototype.concat` method
-// https://tc39.es/ecma262/#sec-array.prototype.concat
-// with adding support of @@isConcatSpreadable and @@species
-$({ target: 'Array', proto: true, forced: FORCED }, {
-  // eslint-disable-next-line no-unused-vars -- required for `.length`
-  concat: function concat(arg) {
-    var O = toObject(this);
-    var A = arraySpeciesCreate(O, 0);
-    var n = 0;
-    var i, k, length, len, E;
-    for (i = -1, length = arguments.length; i < length; i++) {
-      E = i === -1 ? O : arguments[i];
-      if (isConcatSpreadable(E)) {
-        len = lengthOfArrayLike(E);
-        if (n + len > MAX_SAFE_INTEGER) throw TypeError(MAXIMUM_ALLOWED_INDEX_EXCEEDED);
-        for (k = 0; k < len; k++, n++) if (k in E) createProperty(A, n, E[k]);
-      } else {
-        if (n >= MAX_SAFE_INTEGER) throw TypeError(MAXIMUM_ALLOWED_INDEX_EXCEEDED);
-        createProperty(A, n++, E);
-      }
-    }
-    A.length = n;
-    return A;
-  }
-});
-
-
-/***/ }),
-
-/***/ "9bf2":
-/***/ (function(module, exports, __webpack_require__) {
-
-var global = __webpack_require__("da84");
-var DESCRIPTORS = __webpack_require__("83ab");
-var IE8_DOM_DEFINE = __webpack_require__("0cfb");
-var anObject = __webpack_require__("825a");
-var toPropertyKey = __webpack_require__("a04b");
-
-var TypeError = global.TypeError;
-// eslint-disable-next-line es/no-object-defineproperty -- safe
-var $defineProperty = Object.defineProperty;
-
-// `Object.defineProperty` method
-// https://tc39.es/ecma262/#sec-object.defineproperty
-exports.f = DESCRIPTORS ? $defineProperty : function defineProperty(O, P, Attributes) {
-  anObject(O);
-  P = toPropertyKey(P);
-  anObject(Attributes);
-  if (IE8_DOM_DEFINE) try {
-    return $defineProperty(O, P, Attributes);
-  } catch (error) { /* empty */ }
-  if ('get' in Attributes || 'set' in Attributes) throw TypeError('Accessors not supported');
-  if ('value' in Attributes) O[P] = Attributes.value;
-  return O;
-};
-
-
-/***/ }),
-
-/***/ "a04b":
-/***/ (function(module, exports, __webpack_require__) {
-
-var toPrimitive = __webpack_require__("c04e");
-var isSymbol = __webpack_require__("d9b5");
-
-// `ToPropertyKey` abstract operation
-// https://tc39.es/ecma262/#sec-topropertykey
-module.exports = function (argument) {
-  var key = toPrimitive(argument, 'string');
-  return isSymbol(key) ? key : key + '';
-};
-
-
-/***/ }),
-
-/***/ "ab17":
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__("95eb");
-if(content.__esModule) content = content.default;
-if(typeof content === 'string') content = [[module.i, content, '']];
-if(content.locals) module.exports = content.locals;
-// add the styles to the DOM
-var add = __webpack_require__("499e").default
-var update = add("6c9c26d5", content, true, {"sourceMap":false,"shadowMode":false});
-
-/***/ }),
-
-/***/ "b622":
-/***/ (function(module, exports, __webpack_require__) {
-
-var global = __webpack_require__("da84");
-var shared = __webpack_require__("5692");
-var hasOwn = __webpack_require__("1a2d");
-var uid = __webpack_require__("90e3");
-var NATIVE_SYMBOL = __webpack_require__("4930");
-var USE_SYMBOL_AS_UID = __webpack_require__("fdbf");
-
-var WellKnownSymbolsStore = shared('wks');
-var Symbol = global.Symbol;
-var symbolFor = Symbol && Symbol['for'];
-var createWellKnownSymbol = USE_SYMBOL_AS_UID ? Symbol : Symbol && Symbol.withoutSetter || uid;
-
-module.exports = function (name) {
-  if (!hasOwn(WellKnownSymbolsStore, name) || !(NATIVE_SYMBOL || typeof WellKnownSymbolsStore[name] == 'string')) {
-    var description = 'Symbol.' + name;
-    if (NATIVE_SYMBOL && hasOwn(Symbol, name)) {
-      WellKnownSymbolsStore[name] = Symbol[name];
-    } else if (USE_SYMBOL_AS_UID && symbolFor) {
-      WellKnownSymbolsStore[name] = symbolFor(description);
-    } else {
-      WellKnownSymbolsStore[name] = createWellKnownSymbol(description);
-    }
-  } return WellKnownSymbolsStore[name];
-};
-
-
-/***/ }),
-
-/***/ "c04e":
-/***/ (function(module, exports, __webpack_require__) {
-
-var global = __webpack_require__("da84");
-var call = __webpack_require__("c65b");
-var isObject = __webpack_require__("861d");
-var isSymbol = __webpack_require__("d9b5");
-var getMethod = __webpack_require__("dc4a");
-var ordinaryToPrimitive = __webpack_require__("485a");
-var wellKnownSymbol = __webpack_require__("b622");
-
-var TypeError = global.TypeError;
-var TO_PRIMITIVE = wellKnownSymbol('toPrimitive');
-
-// `ToPrimitive` abstract operation
-// https://tc39.es/ecma262/#sec-toprimitive
-module.exports = function (input, pref) {
-  if (!isObject(input) || isSymbol(input)) return input;
-  var exoticToPrim = getMethod(input, TO_PRIMITIVE);
-  var result;
-  if (exoticToPrim) {
-    if (pref === undefined) pref = 'default';
-    result = call(exoticToPrim, input, pref);
-    if (!isObject(result) || isSymbol(result)) return result;
-    throw TypeError("Can't convert object to primitive value");
-  }
-  if (pref === undefined) pref = 'number';
-  return ordinaryToPrimitive(input, pref);
-};
-
-
-/***/ }),
-
-/***/ "c430":
-/***/ (function(module, exports) {
-
-module.exports = false;
-
-
-/***/ }),
-
-/***/ "c65b":
-/***/ (function(module, exports) {
-
-var call = Function.prototype.call;
-
-module.exports = call.bind ? call.bind(call) : function () {
-  return call.apply(call, arguments);
-};
-
-
-/***/ }),
-
-/***/ "c6b6":
-/***/ (function(module, exports, __webpack_require__) {
-
-var uncurryThis = __webpack_require__("e330");
-
-var toString = uncurryThis({}.toString);
-var stringSlice = uncurryThis(''.slice);
-
-module.exports = function (it) {
-  return stringSlice(toString(it), 8, -1);
-};
-
-
-/***/ }),
-
-/***/ "c6cd":
-/***/ (function(module, exports, __webpack_require__) {
-
-var global = __webpack_require__("da84");
-var setGlobal = __webpack_require__("ce4e");
-
-var SHARED = '__core-js_shared__';
-var store = global[SHARED] || setGlobal(SHARED, {});
-
-module.exports = store;
-
-
-/***/ }),
-
-/***/ "c8ba":
-/***/ (function(module, exports) {
-
-var g;
-
-// This works in non-strict mode
-g = (function() {
-	return this;
-})();
-
-try {
-	// This works if eval is allowed (see CSP)
-	g = g || new Function("return this")();
-} catch (e) {
-	// This works if the window reference is available
-	if (typeof window === "object") g = window;
-}
-
-// g can still be undefined, but nothing to do about it...
-// We return undefined, instead of nothing here, so it's
-// easier to handle this case. if(!global) { ...}
-
-module.exports = g;
-
-
-/***/ }),
-
-/***/ "ca84":
-/***/ (function(module, exports, __webpack_require__) {
-
-var uncurryThis = __webpack_require__("e330");
-var hasOwn = __webpack_require__("1a2d");
-var toIndexedObject = __webpack_require__("fc6a");
-var indexOf = __webpack_require__("4d64").indexOf;
-var hiddenKeys = __webpack_require__("d012");
-
-var push = uncurryThis([].push);
-
-module.exports = function (object, names) {
-  var O = toIndexedObject(object);
-  var i = 0;
-  var result = [];
-  var key;
-  for (key in O) !hasOwn(hiddenKeys, key) && hasOwn(O, key) && push(result, key);
-  // Don't enum bug & hidden keys
-  while (names.length > i) if (hasOwn(O, key = names[i++])) {
-    ~indexOf(result, key) || push(result, key);
-  }
-  return result;
-};
-
-
-/***/ }),
-
-/***/ "cc12":
-/***/ (function(module, exports, __webpack_require__) {
-
-var global = __webpack_require__("da84");
-var isObject = __webpack_require__("861d");
-
-var document = global.document;
-// typeof document.createElement is 'object' in old IE
-var EXISTS = isObject(document) && isObject(document.createElement);
-
-module.exports = function (it) {
-  return EXISTS ? document.createElement(it) : {};
-};
-
-
-/***/ }),
-
-/***/ "ce4e":
-/***/ (function(module, exports, __webpack_require__) {
-
-var global = __webpack_require__("da84");
-
-// eslint-disable-next-line es/no-object-defineproperty -- safe
-var defineProperty = Object.defineProperty;
-
-module.exports = function (key, value) {
-  try {
-    defineProperty(global, key, { value: value, configurable: true, writable: true });
-  } catch (error) {
-    global[key] = value;
-  } return value;
-};
-
-
-/***/ }),
-
-/***/ "d012":
-/***/ (function(module, exports) {
-
-module.exports = {};
-
-
-/***/ }),
-
-/***/ "d039":
-/***/ (function(module, exports) {
-
-module.exports = function (exec) {
-  try {
-    return !!exec();
-  } catch (error) {
-    return true;
-  }
-};
-
-
-/***/ }),
-
-/***/ "d066":
-/***/ (function(module, exports, __webpack_require__) {
-
-var global = __webpack_require__("da84");
-var isCallable = __webpack_require__("1626");
-
-var aFunction = function (argument) {
-  return isCallable(argument) ? argument : undefined;
-};
-
-module.exports = function (namespace, method) {
-  return arguments.length < 2 ? aFunction(global[namespace]) : global[namespace] && global[namespace][method];
-};
-
-
-/***/ }),
-
-/***/ "d1e7":
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var $propertyIsEnumerable = {}.propertyIsEnumerable;
-// eslint-disable-next-line es/no-object-getownpropertydescriptor -- safe
-var getOwnPropertyDescriptor = Object.getOwnPropertyDescriptor;
-
-// Nashorn ~ JDK8 bug
-var NASHORN_BUG = getOwnPropertyDescriptor && !$propertyIsEnumerable.call({ 1: 2 }, 1);
-
-// `Object.prototype.propertyIsEnumerable` method implementation
-// https://tc39.es/ecma262/#sec-object.prototype.propertyisenumerable
-exports.f = NASHORN_BUG ? function propertyIsEnumerable(V) {
-  var descriptor = getOwnPropertyDescriptor(this, V);
-  return !!descriptor && descriptor.enumerable;
-} : $propertyIsEnumerable;
-
-
-/***/ }),
-
-/***/ "d8ad":
-/***/ (function(module, exports, __webpack_require__) {
-
-// style-loader: Adds some css to the DOM by adding a <style> tag
-
-// load the styles
-var content = __webpack_require__("2b29");
-if(content.__esModule) content = content.default;
-if(typeof content === 'string') content = [[module.i, content, '']];
-if(content.locals) module.exports = content.locals;
-// add the styles to the DOM
-var add = __webpack_require__("499e").default
-var update = add("7efa66e8", content, true, {"sourceMap":false,"shadowMode":false});
-
-/***/ }),
-
-/***/ "d9b5":
-/***/ (function(module, exports, __webpack_require__) {
-
-var global = __webpack_require__("da84");
-var getBuiltIn = __webpack_require__("d066");
-var isCallable = __webpack_require__("1626");
-var isPrototypeOf = __webpack_require__("3a9b");
-var USE_SYMBOL_AS_UID = __webpack_require__("fdbf");
-
-var Object = global.Object;
-
-module.exports = USE_SYMBOL_AS_UID ? function (it) {
-  return typeof it == 'symbol';
-} : function (it) {
-  var $Symbol = getBuiltIn('Symbol');
-  return isCallable($Symbol) && isPrototypeOf($Symbol.prototype, Object(it));
-};
-
-
-/***/ }),
-
-/***/ "da84":
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(global) {var check = function (it) {
-  return it && it.Math == Math && it;
-};
-
-// https://github.com/zloirock/core-js/issues/86#issuecomment-115759028
-module.exports =
-  // eslint-disable-next-line es/no-global-this -- safe
-  check(typeof globalThis == 'object' && globalThis) ||
-  check(typeof window == 'object' && window) ||
-  // eslint-disable-next-line no-restricted-globals -- safe
-  check(typeof self == 'object' && self) ||
-  check(typeof global == 'object' && global) ||
-  // eslint-disable-next-line no-new-func -- fallback
-  (function () { return this; })() || Function('return this')();
-
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__("c8ba")))
-
-/***/ }),
-
-/***/ "dc4a":
-/***/ (function(module, exports, __webpack_require__) {
-
-var aCallable = __webpack_require__("59ed");
-
-// `GetMethod` abstract operation
-// https://tc39.es/ecma262/#sec-getmethod
-module.exports = function (V, P) {
-  var func = V[P];
-  return func == null ? undefined : aCallable(func);
-};
-
-
-/***/ }),
-
-/***/ "e330":
-/***/ (function(module, exports) {
-
-var FunctionPrototype = Function.prototype;
-var bind = FunctionPrototype.bind;
-var call = FunctionPrototype.call;
-var callBind = bind && bind.bind(call);
-
-module.exports = bind ? function (fn) {
-  return fn && callBind(call, fn);
-} : function (fn) {
-  return fn && function () {
-    return call.apply(fn, arguments);
-  };
-};
-
-
-/***/ }),
-
-/***/ "e893":
-/***/ (function(module, exports, __webpack_require__) {
-
-var hasOwn = __webpack_require__("1a2d");
-var ownKeys = __webpack_require__("56ef");
-var getOwnPropertyDescriptorModule = __webpack_require__("06cf");
-var definePropertyModule = __webpack_require__("9bf2");
-
-module.exports = function (target, source) {
-  var keys = ownKeys(source);
-  var defineProperty = definePropertyModule.f;
-  var getOwnPropertyDescriptor = getOwnPropertyDescriptorModule.f;
-  for (var i = 0; i < keys.length; i++) {
-    var key = keys[i];
-    if (!hasOwn(target, key)) defineProperty(target, key, getOwnPropertyDescriptor(source, key));
-  }
-};
-
-
-/***/ }),
-
-/***/ "e8b5":
-/***/ (function(module, exports, __webpack_require__) {
-
-var classof = __webpack_require__("c6b6");
-
-// `IsArray` abstract operation
-// https://tc39.es/ecma262/#sec-isarray
-// eslint-disable-next-line es/no-array-isarray -- safe
-module.exports = Array.isArray || function isArray(argument) {
-  return classof(argument) == 'Array';
-};
-
-
-/***/ }),
-
 /***/ "f5df":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16957,12 +17380,12 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"5788c3ac-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ztree.vue?vue&type=template&id=974d7f00&scoped=true&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"5788c3ac-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/ztree.vue?vue&type=template&id=2deb67ae&scoped=true&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"ztree",attrs:{"id":_vm.ztreeId}})}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/components/ztree.vue?vue&type=template&id=974d7f00&scoped=true&
+// CONCATENATED MODULE: ./src/components/ztree.vue?vue&type=template&id=2deb67ae&scoped=true&
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.concat.js
 var es_array_concat = __webpack_require__("99af");
@@ -16985,7 +17408,13 @@ if (window.jQuery) {
   window.jQuery = $;
 }
 
-__webpack_require__("91e5");
+__webpack_require__("a632");
+
+__webpack_require__("43b2");
+
+__webpack_require__("effb");
+
+__webpack_require__("5aa5");
 
 /* harmony default export */ var ztreevue_type_script_lang_js_ = ({
   props: {
@@ -17150,8 +17579,8 @@ __webpack_require__("91e5");
 });
 // CONCATENATED MODULE: ./src/components/ztree.vue?vue&type=script&lang=js&
  /* harmony default export */ var components_ztreevue_type_script_lang_js_ = (ztreevue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./src/components/ztree.vue?vue&type=style&index=0&id=974d7f00&scoped=true&lang=css&
-var ztreevue_type_style_index_0_id_974d7f00_scoped_true_lang_css_ = __webpack_require__("0a2e");
+// EXTERNAL MODULE: ./src/components/ztree.vue?vue&type=style&index=0&id=2deb67ae&scoped=true&lang=css&
+var ztreevue_type_style_index_0_id_2deb67ae_scoped_true_lang_css_ = __webpack_require__("3089");
 
 // EXTERNAL MODULE: ./src/components/ztree.vue?vue&type=style&index=1&lang=css&
 var ztreevue_type_style_index_1_lang_css_ = __webpack_require__("8f68");
@@ -17272,7 +17701,7 @@ var component = normalizeComponent(
   staticRenderFns,
   false,
   null,
-  "974d7f00",
+  "2deb67ae",
   null
   
 )
